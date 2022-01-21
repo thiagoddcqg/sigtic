@@ -1,0 +1,751 @@
+J. Med. Chem. 1992,35,3007-3011 
+
+3007 
+
+A Pentahalogenated Monoterpene from the Red Alga Portieria hornemannii 
+Produces a Novel Cytotoxicity Profile against a Diverse Panel of Human Tumor 
+Cell Linest 
+
+Richard W.  Fuller:  John H. Cardellina 11:  Yoko Kato:  Linda S. Brinen,* Jon Clardy,s Kenneth M.  Snader,ll and 
+Michael R. Boyd*?* 
+Laboratory of  Drug Discovery Research and Development, Developmental  Therapeutics Program, National Cancer Institute, 
+Frederick  Cancer Research & Development  Center, Bldg  1052, Room 121, Frederick,  Maryland  21 702-1201, Department  of 
+Chemistry, Baker Laboratory, Cornell  University, Ithaca, New  York, 14853-1301,  and Natural Products Branch, Developmental 
+Therapeutics Program, National  Cancer Institute, Frederick  Cancer Research  & Development  Center, Bldg  1052, Room  109, 
+Frederick, Maryland  21 702-1201.  Received  January 27, 1992 
+
+A plyhalogenated acyclic monoterpene, 6(R)-bromo-3(S)-(bromomethyl)-7-methyl-2,3,%trichloro-l-octene (1) was 
+obtained as a major component of the organic extract of  the red alga Portieria homemannu.  X-ray diffraction analysis 
+provided the complete structure, including correct placement of  the different halogen atoms and determination 
+of the absolute stereochemistry.  Detailed NMR analyses provided complete 'H and 
+assignments.  Compound 
+1 exhibited highly differential cytotoxicity against the U.S. National Cancer Institute's  new in vitro human tumor 
+cell lime screening panel; brain tumor, renal, and colon tumor cell lines were most sensitive to 1, while leukemia 
+and melanoma lines were relatively leas sensitive. A second collection of P. hmemanni yielded the novel, monocyclic 
+2, considerably less cytotoxic and devoid of  differential  activity.  On the basis of  its unprecedented  cytotosicity 
+Drofiie in the NCI primary  screen, compound  1 has been selected by the NCI Decision Network Committee for 
+preclinical drug deielopment. 
+
+Introduction 
+
+Since the mid-1970s Rhodophyta (red algae) have been 
+known to produce halogenated monoterpenes.'  Although 
+scores of  acyclic, monocyclic, and  bicyclic halogenated 
+monoterpenes have  been  identified:  this class of  com- 
+pounds has been confined to the genera Plocamium and 
+Chondrococcw.  The structure elucidation of  these com- 
+pounds has not been a simple task. The relatively volatile 
+monoterpenes tend to decompose under EI-MS conditions 
+and acquisition of  molecular weight  and formula infor- 
+mation has often been  difficult.  Correct placement of 
+chlorine and bromine substituents has not proven to be 
+straightforward, as NMR  chemical shift arguments are 
+clouded by the cumulative effects of  multiple substituents 
+on the Clo skeleton.  We  present here the X-ray crystal 
+structure, absolute stereochemistry, complete lH and 13C 
+NMR  assignments, and  novel  spectrum of  differential 
+cytotoxicity  of  G(R)-brom0-3(S)-(bromomethyl)-7- 
+methyl-2,3,7-trichloro-l-octene (11,  from  the  red  alga 
+Portieria hornemannii. 
+
+Silva (Chondrococcw hornemannii), which were initially 
+selected for study on the basis of  the finding of  activity 
+in  the  National  Cancer  Institute's  in  vitro  anti-HIV 
+screening 
+were partitioned  between CH2C12 and 
+CH30H-H20 (1:19).  The antiviral CH2C12 solubles were 
+permeated through  Sephadex LH-20.  The  seventh  of 
+seven fractions was crystallized from methanol to give 1, 
+which was inactive in the anti-HIV screen.  Preliminary 
+'H  and  13C NMR  analyses  suggested  a  monoterpene. 
+While ELMS failed to provide a discernible molecular ion 
+or M - HX fragment ion, CI-MS did reveal a weak pseu- 
+domolecular ion cluster beginning at m/z 416 (M + %+), 
+which correaponded to the molecular formula C10H1&k2C1,; 
+this  was  confirmed  by  high-resolution  EI-MS.  The 
+structure was  solved by  X-ray  diffraction analysis (see 
+Figure 1). To our knowledge, this is only the third X-ray 
+crystal  structure  of  a  naturally  occurring  halogenated 
+monoterpene.6p6 
+
+A compound proposed to have the same structure as 1 
+was reported  previously by Burreson et al.'  as an unre- 
+
+Br 
+
+CI 
+
+1 
+
+Br UCI 
+
+C
+CI,h.. 
+
+,,.4~ 
+
+K
+
+ 
+
+I
+
+2 
+
+\a 
+
+- 
+
+CI 
+
+4 
+
+CI 
+
+3 
+
+Chemistry 
+
+Organic extracts of P. hornemannii (Lyngbye)  P.  C. 
+
+* To whom correspondence should be addressed. 
+'This paper  is offered in memory of  Professor  Gordon Pa- 
+genkopf, a valued colleague whose battle with a brain tumor ended 
+February 16, 1987. 
+
+*Laboratory of  Drug Discovery Research and Development, 
+
+NCI. 
+
+*Department of  Chemistry, Comell University, 
+Natural  Products Branch, NCI. 
+
+(1) Stallard, M.  0.; Faulkner, D. J. Chemical Constituents of the 
+Digestive Gland of  the Sea Hare Aplysia  californica-I.  Im- 
+portance of  Diet.  Comp. Biochem. Physiol. B 1974,49,25-35. 
+( 2 )   Sims, J. J.; Rose, A.  F.; Izac, R. R. Applications of lac NMR 
+to Marie Natural Products.  In Marine Natural  Products, 
+Chemical and  Biological Perspectiues.  Scheuer, P. J., Ed.; 
+Academic Press:  New York, 1978; Vol  1, pp 297-378. 
+(3) Boyd, M. R. Strategies for the Identification of New Agents for 
+the Treatment of AIDS A National Program to Facilitate the 
+Discovery and Preclinical Development of  New Drug Candi- 
+dates for Clinical Evaluation.  In AIDS, Etiology, Diagnosis, 
+Treatment and Prevention.  DeVita, V. T., Hellman, S., Ro- 
+senberg, S.  A.,  Eds.;  Lippincott:  Philadelphia, 1988; pp 
+306319. 
+
+(4) Weislow, 0. S.; Kiser, R.; Fine, D. L.; Shoemaker, R. H.; Bader, 
+Assay for HIV-1 Cy- 
+
+J.; Boyd, M. R. New Soluble-Form- 
+topathic Effects  Application to High-flux Screening of  Syn- 
+thetic and Natural Producta for AIDS-Antiviral Activity.  J. 
+Natl. Cancer Inst. 1989,81,577-586. 
+
+(5) Faulkner,  D.  J.;  Stallard,  M.  0.; Fayos,  J.;  Clardy,  J. 
+
+(3R,4S,7S)-trana,trans-3,7-Dimethyl-l,S,&tribromo-3,4,7-tri- 
+chlorel,boctadiene, a Novel Monoterpene from the Sea Hare, 
+Aplysia californica.  J. Am. Chem. SOC. 1973,95,3413-3414. 
+
+(6) Woolard, F. X.; Moore, R. E.; van Engen, D.;  Clardy, J. The 
+Structure and Absolute Confiiation of Chondrocolactone, a 
+Halogenated Monoterpene from the Red Alga, Chodmoccua 
+hornemannii, and  a  Revised  Structure for  Chondrocole A. 
+Tetrahedron Lett. 1978, 2367-2370. 
+
+0022-2623/92/1835-3007$03.00/0 0 1992 American Chemical Society 
+
+3008  Journal of  Medicinal Chemistry, 1992, Vol. 35, No. 16 
+
+Fuller et al. 
+
+Table I.  'H  and I3C NMR Assignments for Compounds 1 and F 
+
+carbon/ 
+hydrogen no. 
+1 
+
+2 
+3 
+4 
+
+5 
+
+6 
+7 
+8 
+9 
+
+10 
+
+I3Cb 
+118.5 
+
+139.7 
+73.8 
+37.8 
+
+30.1 
+
+64.6 
+71.6 
+27.1 
+38.6 
+
+33.1 
+
+1 
+
+1HC 
+
+5.61 (d, 2.4) 
+5.84 id; 2.4) 
+
+2.53 (ddd, 13.2, 10.2, 1.9) 
+2.14 (t, 10.2) 
+2.48 (ddd, 13.2, 11.5, 1.5) 
+1.97 (dddd, 11.5, 11.2, 10.2, 1.9) 
+4.02 (dd, 11.2, 1.5) 
+
+1.66 ( 8 )  
+3.83 (d, 10.7) 
+3.77 (d, 10.7) 
+1.77 (8) 
+. .  
+
+13Cb 
+38.5 
+
+125.9 
+134.5 
+122.3 
+
+130.9 
+
+65.3 
+42.3 
+28.1 
+26.6 
+
+26.6 
+
+2 
+
+'He 
+4.21 (dd. 11.7. 8.7) 
+4.13 (dd; 11.7; 7.7) 
+6.07 (ddd, 8.7, 7.7, 1) 
+
+6.44 (ddd, 10.3, 2,  1) 
+
+5.86 (dt, 10.3, 2) 
+
+4.51 (br) 
+
+4.40 (br) 
+1.23 ( 8 )  
+
+0.98 (8) 
+. .  
+
+Recorded in CDC13 on a Varian VXR-500 spectrometer.  125 MHz, 6.  500 MHz, 6  (multiplicity, J in Hz). 
+
+Although compound 1 did not exhibit any HIV-inhibi- 
+tory activity, the anti-HIV activity of  the source extract 
+was further tracked, via bioassay-guided chromatography 
+and dereplication analysis, to traces of  aplysiatoxin and 
+debromoaplysiatoxin, presumably derived from a cyano- 
+bacterial contaminant or epiphyte in the algal collection.13 
+Aplysiatoxin and debromoaplysiatoxin have been previ- 
+ously identified as the anti-HIV constituents of Lyngbya 
+majuscula  in our 1ab0ratory.l~ 
+
+A second collection of P. hornemannii was made from 
+a different location, Central Visayas, in the Philippines. 
+Analysis of  the organic extracts revealed the absence of 
+1; instead, a new compound was isolated as the principal 
+monoterpene in this collection.  The structure 2 was as- 
+signed as a result of mass spectral (Cl0HI3Cl3 by HR-EI- 
+242 nm, c  = 33401,  and NMR analyeea.  The 
+MS), W (A- 
+13C-NMR spectra disclosed, in addition to the four con- 
+jugated sp2 carbons suggested by the W absorption, two 
+methyls, a quaternary carbon, and three carbons bearing 
+halogens (a methylene and two methines).  The coupling 
+relationships were readily discerned from lH-'H  COSY 
+experiments, and the assembly of  the various parts fol- 
+lowed from the HMBC data. The relative stereochemistry 
+was assigned from NOE experiments relationships of H-5 
+to  H-4 and  H-6, H-4 to H-1, H-8 to H-2; the absolute 
+configuration was not determined. 
+
+Antitumor Screening Results and Discussion 
+
+While 1 was inactive in the anti-HIV assay, it appeared 
+quite highly cytotoxic against the uninfected human lym- 
+phoblastoid control cells used in the AIDS-antiviral screen. 
+This observation prompted us to evaluate 1 in the NCI's 
+human tumor, disease-oriented in vitro screen.15-18  In- 
+
+(13)  butler, J. A; Alvarado, A.  B.; Schaufelberger, D. E.; Andrew, 
+P.;  McCloud,  T.  G.  Dereplication  of Phorbol  Bioactives: 
+Lyngbya mujucula and Croton cuneatus.  J. Nut. Rod. 1990, 
+53,867-847. 
+(14)  Unpublished  data. 
+(16)  Boyd, M. R. Status of  the NCI Preclinical  Antitumor Drug 
+Discovery Screen:  Implications for Selection of  New Agents 
+for Clinical Trial.  In CANCER:  Principles and Practice of 
+Oncology.  Update  Series; DeVita, V.  T., Jr.,  Hellman,  S., 
+Rosenberg, 5. A.,  Ede.; Lippincott:  Philadelphia,  1989; Vol. 3, 
+NO. 10, pp 1-12. 
+
+(16)  Monks, A; Scudiero, D.; Skehan, P.; Shoemaker, R; P a d ,  K.; 
+
+Vistica, D.; Hoee, C.; Langley, J.; Cronise, P.; Vaigro-Wolff, A.; 
+Gray-Goodrich, M.;  Campbell, H.; Boyd, M. Feasibility  of  a 
+Huh-flux Anticancer Drug Screen Utilizing a Diverse Panel of 
+Human Tumor Cell Linea in Culture.  J. Natl. Cancer Zmt. 
+1991,83,757-766. 
+
+U 
+
+Figure 1.  A computer-generated perspective drawing of the final 
+X-ray model of  compound 1.  The absolute configuration was 
+determined from anomalous scattering effects. 
+solved component in a mixture of monoterpenes from C. 
+hornemannii; however, the material  was  only partially 
+characterized. Here, in addition to our X-ray analysis, we 
+have used 'H-lH  COSY, HMQC, and HMBC experimenta 
+to assign definitively all the resonances in the 'H  and 13C 
+NMR spectra of  1 (see Table I).  Given the renewed in- 
+terest  in  halogenated monoterpenesgl0 and  the  recent 
+disclosure of  insecticidal activity  in  this  class of  com- 
+pounds,lobJ1 this  fully  elucidated  structure  may  prove 
+useful in resolving or precluding the difficulties encoun- 
+tered earlier2J2 in assigning the location of  halogens in 
+these molecules. 
+
+(7)  Burreson, B. J.; Woolard, F. X.; Moore, R. E. Evidence for the 
+Biogenesis  of  Halogenated  Myrcenes  from  the  Red Alga, 
+Chondrococcus hornemannii.  Chem. Lett.  1976,1111-1114. 
+Wright, A.  D.; Coll, J. C.;  Price, I. R. Tropical Marine Algae, 
+W I .  The Chemical Composition of Marine Algae from North 
+Queensland Waters.  J. Nut. Prod. 1990,53,845-861. 
+Coll, J. C.;  Wright, A.  D.  Tropical Marine Algae.  VI.  New 
+Monoterpenes  from  Several Collections  of  Chondrococcw 
+hornemunnii (Rhodophyta, Guartinales, Rhizophyllidaceae). 
+A u t .  J. Chem. 1989,42, 1983-1993. 
+(a) Rovirosa, J.; Sanchez,  1.;  Palacios,  Y.; Darias,  J.; San- 
+Martii, A. Antimicrobial Activity of a New Monoterpene from 
+Plocamium cartilagineum from Antarctic Peninsula.  Bol. SOC. 
+Chil. Chim. 1990,35,131-135.  (b) San-Martin, A; Negrete, R.; 
+Rovirosa,  J.  Insecticide  and  Acaricide  Activities  of  Poly- 
+halogenated  Monoterpenes  from  Chilean Plocamium  carti- 
+lagineum.  Phytochemistry  1991,30, 2165-2169. 
+Watanabe, K.; Umeda, K.;  Kurita, Y.; Takayama, C.;  Miya- 
+kado,  M.  Two  Insecticidal  Monoterpenes,  Telfairine  and 
+Aplysiaterpenoid A, from the Red Algae Plocamium telfairiue: 
+Structure Elucidation, Biological Activity, and Molecular To- 
+pographical Consideration by a Semiempirical Molecular Or- 
+bital Study.  Peatic. Biochem. Physiol.  1990,37, 275-286. 
+Naylor, S.; Manes, L. V.;  Crew, P. C-13 Substituent Effects 
+in Multifunctional Marine Natural  Products.  J. Nut. Prod. 
+1986,48,72-75. 
+
+Halogenated Monoterpenes from Portieria hornemannii 
+
+Journal of  Medicinal Chemktry, 1992, Vol. 35, No. 16  3009 
+
+100.WL,,'..,, 
+50 
+
+' 
+. 
+
+< \
+
+\ \  
+
+"
+
+.
+
+ 
+
+.:A 
+:\ 
+
+- 5 0 .  
+-100. 
+
+' 
+
+..:. 
+
+.-.;.... 
+
+. 1 
+
+-50 
+
+A  -100- 
+
+B Y 
+
+e 
+Q
+Q) 
+
+0
+- 5 0 .  
+
+ 
+
+D2 
+
+\. , 
+
+t 
+
+I 
+
+J 
+
+Figure 2.  Dew-reaponse curves from the testing of 1 (upper composite of nine graphs) and 2 (lower composite of nine graphs) against 
+the cell line subpanels comprising the NCI's human tumor, dieemoriented in vitro screen. Individual cell line identifiers are omitted 
+for clarity.  Graphs A1 and A2 are from the leukemia/lymphoma subpanel, graphs B1 and B2 the non-small-cell lung cancer subpanel, 
+graphs C1 and C2 the small-cell lung cancer subpanel, graphs D1 and D2 the colon cancer subpanel, graphs El and E2 the brain tumor 
+subpanel, graphs F1 and F2 the melanoma subpanel, graphs G1 and G2 the ovarian cancer subpanel, graphs H1 and H2 the renal cancer 
+subpanel, graphs 11 and 12 composites of  all the respective subpanels together. 
+
+temtingly, there was an exceedingly broad range of  in vitro 
+sensitivities among the various types of human tumors to 
+the cytotoxic effects of  1 (Figure 2; also see Experimental 
+
+(17) Paull, K. D.; Shoemaker, R. H.; Hodes, L.;  Monks, A.;  Scu- 
+diem, D. A.;  Rubinstein, L.; Plowman, J.; Boyd, M. R. Display 
+and  Analysis of  Patterns of  Differential Activity  of  Drugs 
+Against Human Tumor Cell Lines: Development of  the Mean 
+Graph and COMPARE Algorithm. J. Natl. Cancer Znst. 1989,81, 
+1088-1092. 
+
+(18) Boyd, M. R.; Paull, K. D.; Rubinstein, L. R. Data Display and 
+Analysie Strategies for the NCI Dieease-orientad In Vitro An- 
+titumor Drug Screen.  In Antitumor Drug Discovery and De- 
+velopment.  Valeriota, F. A.,  Corbett, T., Baker, L. W.; Klu- 
+wer  Academic Publishers:  Amstardam, 1992; pp 11-34. 
+
+Section).  For  example, compared  to  some  of  the  less 
+sensitive melanoma and leukemia lines, several of the more 
+sensitive brain, renal, and colon tumor cell lines were as 
+much as 1000-fold or more sensitive to 1 at the GIM re- 
+sponse level and 100-fold at the LCM level. 
+
+Compound 2 showed little differential cytotoxicity in the 
+NCI screening panel, and it was at least 1 order of mag- 
+nitude lese potent at all three levels of  analysis (GIm, TGI, 
+LCm) than  1 (Figure 2; also see Experimental Section). 
+T w o  related compounds, 3 and 4, from the NCI Repository 
+also  have  been  tested  as part  of  the  NCI's  empirical 
+screening program.  The monocarbocyclic 4 gave a response 
+similar to that of 2, showing some general cytoto.icity, but 
+little differential among the various cell linee; the acyclic 
+
+3010  Journal of  Medicinal Chemistry, 1992,  Vol. 35, No. 16 
+
+3  was somewhat more potent than 4  but exhibited only 
+very modest differential activity (data not shown). 
+
+Other carbocyclic halomonoterpenes from Rhodophyta 
+reportedly have shown general toxicity in brine shrimp 
+and in vitro inhibition of  murine leukemia20 or 
+other21 cell  lines, but  our  results  suggest further  that 
+ceeain human solid tumor cell lines may be particularly 
+smmptible to the cytotoxic effects of some members of this 
+cless of compounds. The contrast between the acyclic and 
+monocyclic compounds would suggest additionally that 
+tbese compounds, particularly the acyclic ones, are not 
+ssting  merely as  electrophiles (alkylating agents); con- 
+sistent with this view were results of  computerized pat- 
+tern-recognition studies, using the COMPARE algorith~ns,~'J~ 
+which revealed no resemblance of  the mean graph profiles 
+(not shown) of 1 to known alkylating agents.  Indeed, more 
+extensive COMPARE pattern-recognition analyses likewise 
+revealed  little  or  no  substantial  resemblance  of  the 
+screening profile of  1 to that of any known mechanistic or 
+structural cl.sss of  cytotoxic agent in the entire current (as 
+of March 1,1992) database. 
+
+Key  features  which  make  the  screening profile  of  1 
+unique can be appreciated visually in the concentration- 
+response curvcjs (Figure 2).  While a multilog spread in 
+relative celluh sensitivities is not uncommon at the GIw 
+(groarth inhibitory) level of  response, it is uncommon at 
+the most demanding LCW (cytotoxic or net cell killing) 
+Ievd of  rmponse.  Moreover, the clustering of the relatively 
+more sensitive lines among the renal, brain, colon, and 
+non-snall-cell  lung  cancer  subpanels,  along  with  the 
+clustering of the relatively less sensitive lines among the 
+leukemia and  melanoma  subpanels  (see Experimental 
+Section), is a highly unusual combination.  A selection of 
+those tumor cell lines showing the highest in vitro sensi- 
+tivity to 1 will provide appropriate targets for detailed in 
+vivo therapeutic investigations in appropriate xenograft 
+models. 
+
+Further biological activity comparisons of  1 with com- 
+pounds not yet tested in the NCI screen but reported in 
+the literature to have antitumor or cytotoxic properties in 
+other screening systems are problematic at the present 
+time.  Consistent or standardized reporting standards or 
+formats for compounds tested in the new NCI screen need 
+to be adopted by investigators more generally to facilitate 
+such comparisons in  the future.  Herein, we  offer  two 
+emmples of  complementary approaches to reporting com- 
+parative biological data derived from the new NCI in vitro 
+primary screen. 
+
+Figure 2 exemplifies a composite which can be prepared 
+directly from the laser-print graphical information typically 
+included  in  the  standard  NCI  screening  data  report 
+package provided to all submitters of  compounds to the 
+NCI program.  Extraneous, repetitive, or otherwise dis- 
+tmcting information has been removed and the graphical 
+srsling simplified to allow considerable photoreduction yet 
+still vividly  illustrate  the contrasting concentration-re- 
+sgonse profiles. 
+
+While the reporting of  screening results in simplified 
+graphical formats may be very useful to illustrate, rein- 
+
+(19)  Konig,  G.  M.;  Wright,  A.  D.;  Sticher,  0. A  New  Poly- 
+halogenated Monoterpene  from  the  Red  Alga  Plocamium 
+cartilagineum.  J. Nut. R o d .  1990,53, 1615-1618. 
+
+(20)  Gonzales, A.  G.; Darias,  V.; Estevez, E.  Chemotherapeutic 
+Activity of Polyhalogenated Monoterpenea from Spanish Ala- 
+gae.  Planta Med. 1982,44, 44-46. 
+
+(21)  Kusumi, T.; Uchida, H.; Inouye, Y.; Ishiteuka, M.; Yamamoto, 
+H.; Kakisawa,  H.  Novel  Cytotoxic Monoterpenes Having a 
+Halogenated Tetrahydropyran from Aplyaia kurodai.  J. Org. 
+Chem. 1987,52,4597-4600. 
+
+Fuller  et al. 
+
+force, contrast, or compare certain unique, rare, or oth- 
+erwise highly unusual  screening profiles such as those 
+presented herein, we  do not suggest that such graphical 
+reporting  necessarily  should  be  adopted  routinely  for 
+publication. Just as NMR, mass spectrometric, and other 
+routine, documentary spectral data are reported typically 
+in  the chemical literature  in  a  cryptic, alphanumerical 
+rather than graphical format, a similar approach may be 
+more  efficient, and more acceptable to editors, for the 
+routine  reporting  of  data  from  the  new  NCI  primary 
+screen.  An example of  such an approach to an alphanu- 
+merical format is given for compound 1 and 2 in the Ex- 
+perimental Section.  The information provided is sufficient 
+to allow the reader to reconstruct a "mean graph" profile 
+which, in turn, could be used for comparisons, either vis- 
+ually  or  by  computer, with  similarly reconstructed  or 
+otherwise reported screening profiles of  known standards 
+or other compounds of  interest in the future. 
+
+In summary, we describe here the discovery of  a natu- 
+rally-occurring pentahalogenated  monoterpene  which 
+produces a highly novel cytotoxicity profile against the 
+diverse tumor types which comprise the NCI's  primary 
+screening panel.  We have presented the biological activity 
+information in a variety of formats both to illustrate the 
+unusual spectrum of  activity of  this particular compound 
+and to offer some complementary data-reporting alterna- 
+tives that hopefully may contribute to the evolution of 
+consistent reporting standards for investigators using the 
+new NCI screen. 
+
+Compound 1 produces one of the most extreme exam- 
+ples of  differential cytotoxicity observed thus far in the 
+first 2 years of  operation of  the NCI screen.  The com- 
+pound clearly is not a general cell poison; its preferential 
+cytotoxicity to cell lines derived from highly chemoresis- 
+tant  human  tumors  is  intriguing.  The  NCI  Decision 
+Network Committee recently reached a similar consensus 
+and selected compound  1 for drug development.22  An 
+immediate NCI priority is mass recollection (now ongoing) 
+of  P. homemannii from the original collection site, as well 
+as the investigation of chemical synthesis as an alternate 
+source of  the compound for preclinical development. 
+Experimental Section 
+
+Collection, Extraction, and Fractionation of P. Borne- 
+mannii.  Our original sample of P. hornemannii was collected 
+by  Ernani  G.  Menez  near  Chanaryan,  Batan  Island,  in  the 
+Philippines in April 1986.  A voucher specimen is on deposit at 
+the Smithsonian Institution.  The alga waa  frozen on collection, 
+lyophilized, and extracted with CH2C12-MeOH (l:l), followed by 
+a MeOH rinse.  The crude organic extract (2.5 g)  waa partitioned 
+between CH2Cll (100 mL) and H2CkMeOH (191,100 mL). "he 
+dichloromethane phase was reduced, in vacuo, and permeated 
+through Sephadex LH-20 (column 2.5 X  150 cm) with CH2C12- 
+MeOH  (1:l).  Seven fractions were obtained. 
+
+6 ( R  )-Bromo-J(S )-(bromomethyl)-7-methyl-2,3,7-tri- 
+
+chloro-l-octene (1).  The seventh fraction from the above was 
+crystallized from MeOH give 1:  55 mg; mp 49-50";  ["ID  +2M0 
+(c  1.08,  CH2Cl2); CI-MS  (NH,):  m/z  416/418/420/422/424 
+0.3/1.0/1.0/0.5/0.1), 336/338/340/342  (1.8/3.3/2.2/0.6), 
+(-+, 
+300/302/304  (4.3/6.9/3.4), 2471249 (17/22),  2031205  (19/13), 
+1671169 (27/24), 96 66,52 (100); HR-EI-MS m/z 401.8583 (calcd 
+
+for Cl~16W137C127 L4  r2, 401.8619),  399.8637 (cdcd for C&16S6- 
+
+C12'9Br2, 399.8679). 
+
+Single-Crystal  X-ray  Diffraction  Analysis  of  6(R)- 
+
+Brom~t(S)-(bromomethyl)-7-methyl-2~,7-~c~~l-octene 
+(1).  Compound 1 crystallized from n-pentane upon slow evap- 
+oration at -25  "C as clear thin plates, and a specimen with ap- 
+
+(22)  NCI Decision Network Committee, March 23,1992, minutes. 
+NCI Division of Cancer Treatment, National Cancer Institute, 
+Bethesda, MD. 
+
+Halogenated Monoterpenes from Portieria hornemannii 
+
+Journal  of  Medicinal Chemistry, 1992, Vol. 35, NO. 16  3011 
+
+proximate dimensions 0.1  X  0.15  X  0.2  mm  was  selected for 
+analysis. Preliminary X-ray photographs displayed orthorhombic 
+symmetry. Accurate lattice constants of a = 6.115 (4) i$ b = 12.456 
+(6) A,  c = 19.188 (10) A were determined from 30 diffractometer 
+measured 28 values.  Systematic extinctions, optical activity, and 
+crystal density were consistent with space group P212121, with one 
+molecule of  composition C1a1,@r2C13 forming the asymmetric 
+unit.  Additional crystallographic parameters were  V = 1461.6 
+(14) A3, p(Mo Ka) 6.02  mm-',  and D, = 1.824 g cm-3 for 2 = 4. 
+Intensity data were  collected  on  a  Nicolet (Siemens) P21 dif- 
+fradometer with Mo Ka radiation (0.71073 A) and a 28-8 scan 
+technique.  A total of  1157 Friedel unique data were collected, 
+of which 686 (59%) with IF,I  1 4@,I  were considered observed 
+after correction for Lorentz, polarization, and background effects. 
+The structure was solved by direct methods and refined by full 
+matrix, least-squares techniques.=  The final refinements with 
+anisotropic thermal parameters for all nonhydmgen atoms, riding 
+isotropic hydrogens, and anomalous scattering corrections for 
+bromine and chlorine converged smoothly to a final discrepancy 
+index of  7.81%  for the enantiomer shown  (WR = 6.72%).  The 
+other enantiomer converged to the significantly higher value of 
+8.51%.  The absolute configuration also was ascertained by the 
+9-test.  The enantiomer  shown  refined to 9 = +1.1 (2).23 A 
+computer-generated perspective model of the f d  model is given 
+in Figure 1; archival crystallographic data have been deposited 
+with the Cambridge Crystallographic Data Centre, Cambridge, 
+U.K. 
+
+Second Collection of P. hornemannii and Isolation of 2. 
+The subsequent collection of P. hornemunnii (2.7 kg fresh weight) 
+was made at Banilad, Bacong, Central V i y a s ,  in the Philippines 
+in April 1991, and kept frozen for transport and storage prior to 
+extraction.  The frozen alga was ground with dry ice in a ham- 
+burger grinder and extracted sequentially with MeOH-CH2C12 
+(3:1, then 2 X  1:l). The extracts were filtered  and evaporated 
+at 22  OC  to an aqueous suspension, which was extracted with 
+CH2C12. The CHzC12 extracts were evaporated, again at 22  OC, 
+to give 10.39 g of  a dark green oil.  A portion (1.7 g) of this extract 
+was partitioned between CH30H-H20  (19:l) and hexane.  The 
+hexane-soluble fraction (1.074 g) was permeated through Sephadex 
+LH-20 (2.5 X  150 cm) with CH2C12-MeOH (1:l) to give seven 
+fractions;  the  seventh  fraction  was  essentially  pure  1-[3-(1- 
+chloro-2(E)-propenyl)]-2,4-dichloro-3,3-diethylcyclohex-5-ene 
+(2):  116 mg of  colorless oil; [a] +71.3O  (c 1.0, CHC13); UV & 
+(CH2C12) 242 nm (c  = 3340); HR-ELMS m / z  240.0055 (calcd for 
+CloH1336C1~7C1, 240.0053),  238.0072  (calcd  for  C10H1336C13, 
+238.0083); LR-EM-MS m / z  (relative intensity) 2401238 (M', 
+9/10), 205 (14), 203 (201,189 (61,187 (8), 169 (33), 167 (loo), 153 
+(19), 133 (26), 131 (32), 117 (36), 115 (35). 
+
+Biological Testing Protocol  Data Display and Analysis. 
+Pure compounds were tested  in the NCI's  human tumor, dis- 
+ease-oriented in vitro screen,16 and data calculations were per- 
+formed, as described elsewhere.1518  Figure 2  is  a  composite 
+prepared directly from graphical information typically provided 
+in  the  standard  NCI  screening data  report  packagela and  is 
+representative of  quadruplicate tests of  1 and 2. 
+
+Screening Data Summary.  The -log  GIw, TGI, and LCw 
+values, respectively, obtained directly  from the original mean 
+
+(23)  Sheldrick, G. M. SHELXTL Crystallographic System; Siemens 
+
+Instrument Division:  Madison, WI, 1986. 
+
+graphs provided in the standard NCI screening data rep0rt,18 are 
+listed below in sequence following the individual cell line names 
+in the same order as the cell lines are arranged top-to-bottom on 
+the mean graphs provided in the NCI supplier report. 
+
+Compound 1:  CCRF-CEM (4.54,4.16, 3-82), HL-60 TB (6.12, 
+5.36, 4.68), K-562 (5.92, 4.66, 3.85), MOLT-4 (4.68, 4.23, 3.85), 
+RPMI-8226 (6.68,6.15,5.21), SR (5.47,4.14,3.89); A549lATCC 
+(5.54, 5.17,  4.72), EKVX (5.52, 5.24,  4.96), HOP-18 (5.49, 5.21, 
+4.92),  HOP-62  (5.38,  5.05,  4-77), HOP-92  (6.14,  5.82,  5-44), 
+NCI-H226  (4.62, 4.41, 4.21), NCI-H23 (4.85, 4.38,  4-00), NCI- 
+H322M (5.68,5.34,5.02), NCI-H460 (5.82,5.44,5.08), NCI-H522 
+(4.62,4.34,4.06), LXFL-529L (4.85,4.47,4.12); DMS 114 (4.38, 
+4.12,3.89),  DMS 273 (5.96,5.49,5.10); COLO 205 (4.92,4.70,4.24), 
+DLD-1 (5.74,  5.00,4.46),  HCC-2998 (5.77, 5.35, 5.00), HCT-116 
+(6.04,5.49,4.92), HCT-15 (5.66,5.15,4.62), HT29 (6.44,5.85,5.28), 
+KM12 (6.17,5.59,5.16), KM20L2 (5.64,5.33,5.00), SW-620 (5.96, 
+5.52,  5.09); SF-268 (6.16, 5.54,  4.96),  SF-295 (6.17, 5.70,  5.30), 
+SF-539 (6,57,6.19,5.77), SNB-19 (5.70,5.37,5.04), SNB-75 (6.59, 
+5.80,4.10),  SNB-78 (6.60,6.19,5.70), U251 (6.40,6.00,5.64), XF498 
+(4.59,4.30,4.02); LOX IMVI (4.57,4.24,4.00), MALME3M (4.57, 
+4.20,  3.89), M14 (4.57, 4.21,  3-92), M19-MEL (4.62, 4.24,  3.92), 
+SK-MEL-2 (6,01,5.49,4.89), SK-MEL-28 (5.64,5.32,5.01), SK- 
+MELd (4.66,4.38,4.09),  UACC-257 (5.68,5.31,4.89), UACC-62 
+(5.66,5.17,4.70); IGROVl (4.82,4.37,3.96), OVCAR-3 (5.59,5.33, 
+5.07), OVCAR-4 (5.57, 5.24,  4.85), OVCAR-5 (5.49, 5.24, 5.00), 
+OVCAR8 (5.72,5.21,4.66), SK-OV-3 (4.48,4.21,3.96); 786-0 (7.02, 
+6.66,6.00),  A498 (5.62,5.34,5.07), ACHN (5.85,5.49,5.15), CAW-1 
+(5.80,5.47,5.05), RXF-393 (6.48,6.06,5.51), RXF-631 (6.47,5.11, 
+4.52), SN12C (5.74,4.77, 4.24), TK-10 (5.68, 5.37,  5.08), UO-31 
+(5.57, 5.19,  4.82). 
+
+Compound 2  CCRF-CEM (5.23,4.43, >4.00), HLWl'B  (5.09, 
+>4.00,  >4.00), K-562 (4.48, >4.00,  >4.00), MOLT-4 (4.74,4.12, 
+>4.00); A549/ATCC  (4.55, >4.00,  >4.00),  EKVX (4.42,  >4.00, 
+>4.00),  HOP-18 (4.85,  4.55,  4.27),  HOP-92 (4.80,  4.51,  4.24), 
+NCI-H226 (4.57, 4.23,  >4.00), NCI-H23 (4.82,4.52,4.21),NCI- 
+H322M (4.29, >4.00, >4.00), NCI-H460 (4.96,4.59,4.19), NCI- 
+H522 (4.96,4.64,4.31),  LXFL 529 (4.92,4.59,4.28); DMS 114 (4.80, 
+4.48,4.15),  DMS 273 (4.74,4.43,4.12); COLO 205 (4.77,4.52,4.25), 
+DLD-1 (4.82,4.54,4.28),  HCC-2998 (4.82,4.54,4.26),  HCT-116 
+(4.77,4.51,4.25), HCT-15 (4.80,4.54,4.27), HT29 (4.74,4.48,4.20), 
+KM12 (4.44,  >4.00,  >4.00), KM20L2 (4.68,4.36,4.05),  SW-620 
+(4.77,4.49,4.24);  SF-268 (4.80,4.39, >4.00), SF-295 (4.66, 4.24, 
+>4.00),  SF-539 (4.77,  4.49,  4.21), SNB-19 (4.33, >4.00,  >4.00), 
+SNB-75  (4.72,  >4.00,  >4.00);  LOX  IMVI  (4.85,  4.54,  4-21), 
+MALMEBM (5.00,5.00,5.00), M14 (4.89,4.59,4.29),  M19-MEL 
+(4.80,4.47,4.13), SK-MEL-2 (4.70,4.44,4.19), SK-MEL-28 (4.80, 
+4.52,4.26), SK-MEL-5 (4.82,4.54,4.27), UACC-257 (4.82, 4.51, 
+4.21),  UACC-62  (4.82,  4.55,  4.27); IGROVl  (4.82,  4.47,  4-13), 
+OVCAR-3 (4.74,4.48,4.20),0VCAR-4 (4.43, >4.00, >4.00), OV- 
+CAR-5 (4.68,4.44,4.20),SK-OV-3 (4.49,>4.00, >4.00); 786-0(4.72, 
+4.37, >4.00), A498 (4.64,4.31, >4.00), ACHN (4.51,4.03, >4.00), 
+CAKI-1 (4.52, >4.00, >4.00), RXF-393 (4.82,4.55,4.28), RXF-631 
+(5.05,4.59,4.15), TK-10 (4.48,4.01,  >4.00), UO-31 (4.80,4.54,4.26). 
+Acknowledgment.  We thank the staff  of  the Dyn- 
+Corp/PRI screening laboratory (NCI-FCRDC) for their 
+support and Ernani Menez for collections of  algae, Kirk 
+Gustafson for assistance with the NMR experiments, and 
+Kirk Manfredi, Lawrence Phillips, and John Roman for 
+the mass spectral analyses.  Work at Cornell University 
+was supported by NIH Grant CA  24487. 
+
+

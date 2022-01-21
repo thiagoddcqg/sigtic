@@ -1,0 +1,870 @@
+1120 
+
+Journal of  Natural Praducts 
+Val. 58, NO. 7, pp.  1120-1 125, July  1995 
+
+MYCALOLIDES D AND E, N E W  CYTOTOXIC MACROLIDES FROM 
+A COLLECTION OF THE STONY CORAL 
+TUBASTREA FAULMVERl 
+
+MOHMIM~D A. RASHID, KIRK R. GUSTAFSON, JOHN H. CARDELLINA 11,  and MICHAEL R. BOYD* 
+Lcrbwatwy of Drug Discwey Resurcb and DeveIopnt, Developmntal Thapeuticrs Program, 
+Division of Cancer Treatment, National Cancer Institute, Building 1052, Rwm 121, 
+Frederick, Maryland 21 702-1201 
+
+ABSTRACT.-Fractionation 
+
+of  a  cytotoxic  extract  of  the  stony  coral  Tubastru faulkneri 
+yielded a series of cytotoxic polyoxazole macrolides and several noncytotoxic indole derivatives. 
+Two new macrolides, mycalolides D 111 and E 121, were isolated and identified, in addition to 
+the known compound  mycalolide C [31. The macrolide structures were elucidated  by  detailed 
+analysis of their spectroscopic data and by comparison with related compounds. 
+
+Stony  (scleractinian)  corals  in  the 
+genus Tubastreu (Dendrophylliidae) have 
+been reported  to be  a source of biologi- 
+cally  active  alkaloids  (1,2),  including 
+aplysinopsin (3) and related brominated 
+indole  derivatives (4,5). They  have  not 
+previously  been  known  to  contain 
+macrolide metabolites.  An  extract from 
+an  Australian  collection  of  Tubastreu 
+faulkneri Wells was found to be cytotoxic 
+in  the  60-cell-line  antitumor  screen of 
+the  NCI  (6,7).  Bioassay-directed  frac- 
+tionation of the extract provided an inac- 
+tive fraction which contained aplysinop- 
+sin-type alkaloids and  a cytotoxic frac- 
+tion rich in polyoxazole macrolides. De- 
+scribed herein is the isolation, structure 
+elucidation,  and  cytotoxicity  profile  of 
+two new macrolides, mycalolides D 117 
+and  E  121,  along  with  the  known 
+mycalolide C 137, from this collection of 
+Tubastreu faulkneri. 
+
+An  organic  extract  (2.2  g)  of  T. 
+faulkneri, from the Great Barrier Reef of 
+Australia,  was  subjected  to  a  solvent- 
+solvent partitioning protocol (8) that con- 
+centrated the cytotoxic activity into CC1,- 
+and CHC1,-soluble fractions. The CC1,- 
+soluble fraction was further separated by 
+gel  permeation  cc  on  Sephadex LH-20 
+and  diol  bonded-phase  hplc  to  give 
+mycalolides C 133 (14 mg) and D 111 (6 
+mg). The CHC1,  partition  fraction was 
+chromatographed on diol packing by vlc. 
+Several of the early-eluting  vlc fractions 
+were  subjected  to  diol hplc  to give  in- 
+dole-3-carboxaldehyde (1 mg) (9,10), 6- 
+bromoindole-3-carboxaldehyde  (2  mg) 
+(10,11), and  a  mixture  of  macrolides. 
+Purification of this macrolide mixture by 
+C,, hplc gave mycalolide E 127 (1 mg) and 
+an  additional  5  mg of  3. The very  late 
+eluting material from the diol vlc column 
+was  subjected  to  C,,  hplc  to afford  the 
+
+1 
+
+July  19957 
+
+Rashid et a / . :   Cytotoxic Macrolides from Tubastreu 
+
+1121 
+
+" i  
+
+I 
+
+yellow  pigment  3'-deamino-2',4'- 
+bis(demethyl)-3 '-oxoaplysinopsin {47 (3 
+mg) (4) as a 4: 1 mixture of ZIE geometri- 
+cal isomers and a similar 4: 1 ZIE isomeric 
+mixture of the 6-bromo analogue {'I 
+(3 
+mg) (4). All of the indole derivatives were 
+identified by  comparison of their physi- 
+cal and spectral characteristics with those 
+described in the literature. 
+
+The molecular formula of compound 
+3, obtained as a colorless gum, was estab- 
+lished  by  high-resolution  fabms  as 
+C51H72N4016. The 'H- and 13C-nmr data 
+
+4  R=H 
+5  R=Br 
+
+that we recorded were virtually identical 
+to spectral data reported for mycalolide C 
+133, isolated  previously  from  a  sponge 
+(12). 
+
+The molecular formula of mycalolide 
+D El7 was established as C5,H,,N40,,  by 
+fabms and had uv (A  max 228 and 260 
+nm) and  ir  (v max  3380,  1748,  1734, 
+1700,1652 cm-')  absorptions appropri- 
+ate for an oxazole-containing macrolide. 
+The 'H- and 13C-nmr spectra of 1 (Table 
+1) showed close correspondence to those 
+reported for mycalolide C 137. Restricted 
+rotation around the C-N bond of the N- 
+methyl  formamide  resulted  in  doubled 
+'H-  and  13C-nmr signals,  in  a  ratio  of 
+approximately 2: 1, for those groups close 
+to  the  unsaturated  formamide  moiety. 
+This spectral feature, previously observed 
+for the mycalolides (1 2), ulapualides (1 3), 
+kabiramides  (14,15),  halichondramides 
+(16,17), and jaspisamides (18), is charac- 
+teristic of this class of macrolide. The 14 
+
+1122 
+
+Journal of Natural Products 
+
+mol. 58, No. 7 
+
+UBLE 1.  Nmr Data (CDC1,) for Mycalolides D 111 and E I2 
+
+Mycalolide D [11° 
+
+Mycalolide E (21' 
+
+6 '% 
+
+s 'K 
+
+HMBC Correlations 
+
+1  . . . . . . .  
+L  . . . .  
+
+171.7 
+41.6 
+
+3  . . . . . . . . . . . . . . . .  
+4  . . . . . . . . . . . . . . . .  
+
+67.1 
+39.3 
+
+5  . . . . . . . . . . . . . . . .  
+6  . . . . . . . . . . . . . . . .  
+7  . . . . . . . . . . . . . . . .  
+8  . . . . . . . . . . . . . . . .  
+
+144.4 
+131.1 
+198.2 
+45.1 
+
+9  . . . . . . . . . . . . . . . .  
+Me-9  . . . . . . . . . . . . .  
+10  . . .  
+11  ... 
+12  . . .  
+13  . . . . . . . . . . . . . . .  
+14  . . . . . . . . . . . . . . .  
+. . . . . . . . .  
+15 
+16  . . . . . . . . . . . . . . .  
+17  . . . . . . . . . . . . . . .  
+18  . . . . . . . . . . . . . . .  
+19  . . .  
+20  . . .  
+21  . . . . . . . . . . . . . . .  
+
+22  . . . . . . . . . . . . . . .  
+OMe-22 ........... 
+
+24  . . . . . . . . . . . . . . .  
+25  . . . . . . . . . . . . . . .  
+
+26  . . . . . . . . . . . . . . .  
+
+81.6 
+
+OMe-26 . . . . . . . . . . .  
+27  . . . . .  
+Me-27  . . . . . . . . . . . .  
+28  . . . . . . . . . . . . . . .  
+
+181.51 
+
+157.71 
+(34.51 
+
+2.45  rn 
+2.48 rn 
+4.27  m 
+2.39 m 
+2.42 rn 
+7.08 dt, 15.6,7.3 
+6.26 br d, 15.6 
+
+2.67 rn 
+
+2.71 m 
+
+c-1, c-2, c-5 
+
+c-3, c-4,  c-7 
+c-4,  c-7 
+
+2.46 m 
+2.54 rn 
+4.38 rn 
+2.40 rn 
+2.52 rn 
+7.18 dd, 16.1,7.2 
+6.08 br d, 16.1 
+
+C-7, C-9, C-9-Me, 
+
+2.54 m 
+
+c-10 
+
+3.05 rn 
+1.23 (3H) d, 6.8 
+
+C-7, C-9-Me, C-10 
+c-8, c-9, c-10 
+
+1.03 (3H) d, 6.8 
+3.37 rn 
+1.31 (3H)d, 6.8 
+
+37.6 
+16.2 
+173.5 
+
+157.8 
+136.6 
+143.2 
+155.3 
+130.1 
+138.6 
+162.7 
+117.5 
+139.2 
+33.4 
+
+79.4 
+57.7 
+39.9 
+9.4 
+73.0 
+32.1 
+
+57.8 
+34.6 
+15.6 
+27.0 
+
+30.5 
+73.1 
+
+37.6 
+9.8 
+76.4 
+170.6 
+21.0 
+37.0 
+19.4 
+110.3 
+
+27.6 
+162.1 
+170.4 
+80.7 
+
+58.7 
+73.1 
+
+59.4 
+
+8.33 s 
+
+8.10 s 
+
+6.42 dd, 16.1, 3.5 
+6.95 dt, 16.1, 7.3 
+2.44 rn 
+2.67 m 
+3.29 m 
+3.32 (3H) s 
+1.72 m 
+0.85 (3H) d, 7.3 
+5.23 rn 
+1.42 rn 
+1.54 rn 
+2.91 m 
+
+3.27 (3H) s 
+1.72 m 
+0.81 (3H) d, 6.8 
+1.42 (2H) rn 
+
+130.11 
+173.21 
+
+1.54 (2H) rn 
+5.09 m 
+
+1.80 m 
+0.99 (3H) d, 6.8 
+4.75 rn 
+
+2.06 (3H) s 
+2.50 m 
+D.95  (3H) d, 6.8 
+4.94 (4.961 dd, 
+14.1, 9.3 
+
+(170.41 
+
+137.11 
+119.51 
+(112.11 
+
+133.41 
+1160.91 
+
+2.99 13.031 (3H) s 
+8.27 18.051 s 
+
+3.90 m 
+
+3.46 (3H) s 
+3.60  m 
+3.62 rn 
+3.37 (3H) s 
+1.19brs 
+
+C-13,C-15 
+
+C-16, C-19 
+
+c-18, c-20 
+c-18, c-22 
+
+c-22 
+
+C-22, C-23, C-24 
+C-1, C-25 
+
+C-26-0Me. 
+
+C-27-Me, C-28 
+
+C-26 
+
+C-26, C-27, C-28 
+
+C-3 1, C-3 I-Me, 
+C-32. C-36 
+
+C-32-0Ac.  C-34 
+
+C-32, C-33, C-34 
+C-32, C-33-Me, 
+
+c-35 
+
+C-33, C-35-NMe. 
+C-35-NCHO 
+C-35, C-35-NCHO 
+C-35, C-35-Nhfe 
+
+C-36, C-37-OMe, 
+
+C-38 
+
+c-37 
+C-36, C-38-OMe 
+
+C-38 
+C-IO,C-12 
+
+7.42 s 
+
+8.04 s 
+
+8.03 s 
+
+6.35 br d, 15.6 
+7.06 m 
+2.42 m 
+2.65 rn 
+3.62 rn 
+3.32 (3H) s 
+1.92 rn 
+0.94 (3H) d, 6.8 
+5.22 rn 
+1.55 rn 
+1.60 rn 
+2.96 rn 
+
+3.28 s 
+1.60 m 
+0.82 (3H) d, 6.8 
+1.24 rn 
+1.80 rn 
+2.48 (2H) rn 
+
+2.75 rn 
+' 
+1.06 (3H) d, 6.8 
+5.12 dd, 8.8.4.1 
+
+1.99 (3H) s 
+2.46 (2H) rn 
+
+1.95 L4.981 dd, 
+14.2, 9.1 
+
+5.48 L7.121 d, 14.2 
+
+3.01 13.051 (3H) s 
+3.27 (8.061 s 
+
+31  . . . . . . . . . . . . . . .  
+
+32  . . . . . . . . . . . . . . .  
+OAc-32  . . . . . . . . . . .  
+
+33  . . . . . . . . . . . . . . .  
+Me-33  . . . . . . . . . . . .  
+34  . . . . . . . . . . . . . . .  
+
+w e - 3 5 .  . . . . . . . . . .  
+NCHO-35  . . . . . . . . .  
+36  . . . . . . . . . . . . . . .  
+37  . . . . . . . . . . . . . . .  
+
+OMe-37 . . . . . . . . . . .  
+38  . . . . . . . . . . . . . . .  
+
+OMe-38 . . . . . . . . . . .  
+N H  . . . . . . . . . . . . . .  
+
+35  . . . . . . . . . . . . . . .  
+
+129.4 
+
+1125.41 
+
+6.48 (7.131 d, 14.1 
+
+'values in square brackets am for the minor (2) double bond isomer. 
+%or convenience of cornpatison, C-11 in 1 WBS omitted intentionally, as was done with a halichondramide imide (16). 
+'6, multiplicity,]  (Hz). 
+
+July  19951 
+
+Rashid et a].:  Cytotoxic Macrolides from Tubastreu 
+
+1123 
+
+Hz coupling between H-34'  and H-35, 
+and  nOe  interactions  between  the 
+formamide  N-methyl  protons  (6 2.99) 
+and  the  H-34 olefinic proton  (6 4.94), 
+established  that  the  A34331 bond  had  E 
+(trans) geometry. The C-5-C-6  and  C- 
+1 9 4 - 2 0  double bonds could be assigned 
+as E  based on the large vicinal couplings 
+( J =  15.6 and 16.1 Hz, respectively) ob- 
+served between the olefinic protons. The 
+substitution of methoxy groups at C-22 
+and  C-26  and  an  acetate  at  C-32  was 
+confirmed by  HMBC  correlations.  The 
+principal differences between the spectra 
+of  1 and  3 were variations  in the C-30 
+acyl groups and in the C - 8 4 - 1 2  region. 
+Although  compound  3 is characterized 
+by  a  2-O-methyllactate  group  at  C-30, 
+compound  1 showed  'H-  {methyl  sin- 
+gletsat63.37and3.46; 1Hmultipletsat 
+6 3.60, 3.62, and 3.901 and  13C-nmr E6 
+170.4,80.7,73.1,59.4,58.7]resonances 
+appropriate  for  a  2,3-di-O-methylgly- 
+cerate  substituent.  COSY  correlations 
+supported this assignment and an HMBC 
+correlation from the C-30 methine pro- 
+ton (6 5.09) to C-36 (6 170.4) confirmed 
+its  substitution  at  C-30.  Compound  1 
+revealed  two  'H-nmr  singlets  (6 8.10, 
+8.33) and  six 13C-nmr signals (6 130.1, 
+136.6, 138.6, 143.2, 155.3,  162.7) in- 
+dicative  of  two  adjacent  disubstituted 
+oxazoles.  HMBC  correlations  required 
+that one oxazole was conjugated to C-19, 
+while the proton (6 8.33) of the second 
+oxazole showed a three-bond correlation 
+to  the  adjacent  C-12  (6  157.8) imide 
+carbonyl group. The imide N H  (6 10.19) 
+correlated with both the C-10 (6 173.5) 
+and C-12 imide carbonyls, while correla- 
+tions  from  the  C-9  methine  proton  (6 
+3.05) and one of the C-8 methylene pro- 
+tons (6 2 -67) to C- 10 confirmed the place- 
+ment of the imide group. The presence of 
+three contiguous oxazole rings is typical 
+
+'For  convenience of comparison,  C-1 1 in  1 
+was  intentionally  omitted  in  the  numbering 
+scheme, as has been done for the imide derivative 
+of halichondramide (16). 
+
+of  this  class of  macrolide; however,  re- 
+placement of the C- 10-C- 1 2  oxazole with 
+an imide in mycalolide D 117 is reminis- 
+cent of a Halichondria macrolide, which 
+had an imide in place of the C- 16-C- 18 
+oxazole (16). Substitution  of  a  methyl 
+group at C-9, similar to the ulapualides 
+(1 3), was confirmed by an HMBC corre- 
+lation from the methyl protons to C-10. 
+Thus, we were able to assign structure 1 
+to mycalolide D. 
+
+Mycalolide E 127, isolated as a minor 
+constituent,  displayed  uv,  ir,  and  'H- 
+nmr spectra similar to those of mycalolide 
+C  131.  The  hrfabms  revealed  a  MH' 
+pseudomolecular  ion  at  mlz  879.4434, 
+which established the molecular formula 
+as C46H62N1013. The structure Of  2 Was 
+deduced primarily from 'H-nmr  studies 
+and comparison of its spectral data with 
+those of 3 and other related compounds 
+in the literature. By COSY analysis and 
+spectral comparison, the C-1 through C- 
+8 portion of 2 was shown to be identical 
+to that of 3. However, the C-9 methoxy 
+substituent of 3 was replaced by a methyl 
+group (6 1.3 1) in 2. Irradiation of the C- 
+9 methyl signal induced strong nOe in- 
+teractions  with  the C-8 methyl  and  H- 
+11. Mycalolide E  127  is  the  first  com- 
+pound  in this class to have methyl sub- 
+stituents  at  both  C-8  and  C-9.  Three 
+singlet aromatic  resonances characteris- 
+tic  of  a  trisoxazole  constellation  were 
+observed in 2. Again, the C-19-C-29 por- 
+tion  of  2 was  shown by  direct  spectral 
+comparison and COSY and nOe results to 
+be identical to the corresponding regions 
+in compounds 1 and 3. The lack of an acyl 
+group  and  methine  proton  at  C-30, 
+coupled with  deshielded signals for the 
+C-29 methylene protons (6 2.48,2H, m) 
+and theC-31 methineproton(62.75,m) 
+indicated  a ketone at C-30. A C-30 ke- 
+tone has been  observed in a majority  of 
+the trisoxazole macrolides (1 2-1  8). Com- 
+parative  analysis  indicated  that  C-3 1 
+through  the  terminal  N-methyl  for- 
+mamide group of 2 was clearly related 
+to  that  section of  compounds  1 and  3, 
+
+1124 
+
+Journal of Natural Products 
+
+mol. 58, No. 7 
+
+with the exception of C-33. In 2, C-33 is 
+an allylic methylene, while C-33 in both 
+1 and  3  is  substituted  with  a  methyl 
+group. The C-33 protons (8 2.46,2H, m) 
+showed nOe interactions with H-35 and 
+vicinal  couplings  to  the  C-32  methine 
+proton and the C-34 olefinic proton. The 
+spectral data we recorded for compound 2 
+were  in  good  agreement  with  data  re- 
+ported  for  C-33-demethylhalichondra- 
+mides (1 6) and jaspisamides (18). While 
+the structure ofmycalolide E 127 has been 
+deduced  by  spectral analyses, confirma- 
+tion using  heteronuclear correlation ex- 
+periments  was  not  possible  due  to  the 
+limited supply of the compound. 
+
+Mycalolides C  13) and  D  111 were 
+screened  against  the  NCI's  60-human- 
+tumor cell line panel. They showed mod- 
+est general cytotoxicity with average LC,, 
+values of  2.5  p M  and  0.6  pM, respec- 
+tively. They did not produce a pattern or 
+a  degree  of  differential  cytotoxicity  of 
+sufficient interest to encourage any fur- 
+ther  study.  Mycalolide  E  E27 was  not 
+tested due to insufficient material. 
+
+Prior to this investigation, macrocy- 
+clic lactones containing two or three con- 
+tiguous oxazole rings have only been iso- 
+lated  from  nudibranchs  and  their  egg 
+masses (13-16),  and from sponges of the 
+genera Halicbondria (1 6,17), Jaspis  (1 8), 
+and Mycule( 12). Therefore, it was surpris- 
+ing to find this class of  compound  in a 
+coelenterate extract. Examination ofpho- 
+tographs of the original T. faulkneri col- 
+lection  and  voucher  specimens did  not 
+reveal any obvious nudibranch or sponge 
+tissue. Thus, it appears thedistributionof 
+polyoxazole macrolides can be expanded 
+to include corals in the genus Tubastrea. 
+EXPERIMENTAL 
+GENERAL EXPERIMENTAL PROCEDURES.-h- 
+stnunentation  and standard procedures have been 
+described elsewhere (1 9,20). 
+
+ANIMAL m T E w . S a m p l e s   of  Tubastm 
+fuulkkneri Wells were  collected along Salamander 
+Reef at  Cape Cleveland, the  Great  Barrier Reef, 
+northeast  Australia,  by  Dr.  Peter  Murphy  and 
+colleagues of  the  Australian  Institute  of  Marine 
+Science (AIMS). Voucher specimens (Q66C1269) 
+
+from  this  collection  are  maintained  at  the 
+Queensland Museum in Brisbane. 
+
+EXTRACTION AND munoN.-Fmh 
+
+samples 
+
+were  frozen after collection and  stored  at  -20' 
+until they were processed. Frozen samples (614 g) 
+were  mixed  with  dry  ice,  ground  to  a  coarse 
+powder, and then extracted with H,O.  The marc 
+was  refrozen,  lyophilized,  and  sequentially  ex- 
+tracted  with  MeOH-CH2C12 (1:l)  and  100% 
+MeOH. The combined organic extracts were evapo- 
+rated at reduced pressure togive 2.84g ofa brown 
+tar. 
+
+The total extract was  separated by a liquid- 
+liquid  partitioning  protocol  (8) which  concen- 
+trated the antitumor activity into CCI, and CHCI, 
+fractions. The CCI,-soluble material (247 mg) was 
+fractionated  by  gel  permeation  cc  on  Sephadex 
+LH-20  eluting  with  hexane-CH,CI,-MeOH 
+(2:5:1). Anearlyeluting LH-20 fraction(l30mg) 
+retained the antitumor activity. This fraction was 
+furtherpurified byhplconawide-porediolbonded- 
+phase  column  (YMC,  1 x 2 0  cm,  300  A)  with 
+hexane-CH2C1,-MeOH  (1 5:49: 1)  to  give 
+mycalolides C [3] (14 mg) and D 11) (6 mg). The 
+CHCI,-soluble  fraction  from  the  initial  liquid 
+partitioning step was subjected to diol (YMC) vlc 
+with a step-gradient elution. The cytotoxic mate- 
+rial eluted with  100% CH,CI,  through  CH,CI,- 
+MeOH  (97:3) was  separated by  diol  hplc  with 
+hexane-CH2CI2-MeOH (15:49: 1) to yield indole- 
+3-carboxaldehyde  (1  mg),  6-bromoindole-3- 
+carboxaldehyde(2 mg),andamixtureofmacrolides 
+that  were ultimately  purified by  C,,  hplc (1x25 
+cm  column),  using  MeOH-H,O  (4:l) to  afford 
+mycalolide E C2] (1 mg) and an additional 5 mg of 
+3. Similar C,,  hplc purification of the vlc fraction 
+that  eluted  with  MeOH-H,O  (3:l) afforded 3'- 
+deamino-2',4'-bi~(demethyl)-3 '-0xoaplysinopsin 
+[4) (3 mg) as a 4: 1 ZlE  mixture of double bond 
+isomers and the corresponding 6-bromo analogues 
+C51 (3 mg) as a similar 4:l  ZIE mixture. 
+
+Mycalolide  D [l).-Colorless 
+
+gum;  [ a ) D  
+- 19.5" (c=0.5,  CHCI,); positive-ion hrfabms mlz 
+1001.4980 (MH*, C,,,H,,N40,,,  calcd 1001.4970) 
+and negative-ionfabmsmlz 999([M-H]-,  appro- 
+priate  for C,,H,,N,O,,);  uv (MeOH) A  rnax  228 
+(log E 4.68),  260  sh (4.47) nm;  ir  (film) u  max 
+3380,  1748,  1734,  1700,  1652,  1576,  1558, 
+1540,1506,1456,1236,1108cm-1;'H-and13C- 
+nmr data, see Table  1. 
+
+Mycalolide  E  [2).--Colorless  gum;  [ a ) D  
+-39.Oo(c=0.1,  CHC1,);positive-ion hrfabms mlz 
+879.4434 (MH',  C46H63N4013, calcd 879.4391); 
+uv (MeOH) A max 231 (log E 4.52), 254 (4.49) 
+nm;  ir  (film) u max  3370,  1729,  1658,  1462, 
+1370,  1234,  1092, 917  cm-';  'H-nmr  data,  see 
+Table  1. 
+
+ANlTTUMORASSAYAND SCREENINGDATASUM- 
+
+July  19937 
+
+Rashid et a/. :  Cytotoxic Macrolides from Tubastreu 
+
+1125 
+
+MARY.-DMSO  solutions of compounds 1 and 3 
+were assayed in the NCI’s invitm disease oriented 
+antinunor  screening  panel  (6).  Data  reporting 
+format and response parameter definitions are pub- 
+lished elsewhere (7). T h e  negative log,, (M) GI,,, 
+TGI, and LC,,  values, respectively, are listed be- 
+low  for  compound  l by  tumor  type,  with  the 
+individual cell line identifiers. Leukemia: CCRF- 
+CEM  (7.64,  6.82,  >6.00),  HL-60  (TB)  (7.57, 
+7.18,  6.66), K-562  (7.82, 6.82,  6.08), MOLT-4 
+(7.24,  6.92,  >6.00),  RPMI-8226  (7.60,  6.96, 
+>6.00), SR (7.38, 6.92,  >6.00).  Non-small  cell 
+lung:  A549/ATCC  (7.42, 6.68,  >6.00),  EKVX 
+(7.03,6.32, >6.00),  HOP-62 (7.37,6.92,6.15), 
+HOP-92  (7.51, 7.00,  6.11), NCI-H226  (7.36, 
+6.85,  6.35), NCI-H23  (6.96, 6.31,  6.01), NCI- 
+H322M (6.89, 6.14,  >6.00),  NCI-H460  (7.60, 
+6.68,6.28),NCI-H522(7.46,6.72,6.02). Colon: 
+COLO 205 (7.52, 6.89,6.43), HCC-2998 (7.00, 
+6.36, 6.08), HCT-116  (7.14, 6.37, 6.03), HCT- 
+15 (7.55,6.62,6.01),HT29(7.70,6.72, >6.00), 
+KM12 (7.15,6.43, >6.00),sw-620(7.52,6.28, 
+>6.00).  Brain: SF-268 (7.15, 6.48,  >6.00),  SF- 
+295 (7.38,6.96,6.29),SF-539 (7.21,6.62,6.06), 
+SNB-19(6.92,6.30,>6.00),SNB-75(8.29,7.60, 
+7.12), U251(7.44,7.05,6.52). Melanoma: LOX 
+IMVI (7.92,7.54,7. 19),MALME-3M(7.809 6.96, 
+6.12), M14(7.48,7.10,6.36),  SK-MEL-2 (7.68, 
+>6.00),SK- 
+6.92,6.12),SK-MEL-28(7.62,7.00, 
+MEL-5 (7.28,6.96,6.68),UACC-257 (7.48,7.10, 
+6.57),  UACC-62  (7.39,  7.02,  6.36).  Ovary: 
+IGROVl  (7.48,  7.01,  6.37),  OVCAR-3  (7.43, 
+7.12,  6.59),  OVCAR-4  (7.82,  6.77,  6.18), 
+OVCAR-5 (7.11, 6.57, 6.02), OVCAR-8 (7.30, 
+6.82, >6.00),  SK-OV-3 (7.21,6.70,6.01). Kid- 
+ney: 786-0 (7.44, 7.01, 6.30), A498 (7.40, 6.96, 
+6.39), ACHN (7.35,6.36, >6.OO), CAKI-1(7.74, 
+7.34,6.96), RXF-393 (7.35,6.82,6.05), SNl2C 
+(7.20,  6.15, >6.00),  TK-10 (7.37,  7.01,  6.40), 
+UO-31 (7.35, 6.96,  6.59). Prostate: PC-3 (7.49, 
+7 .OO, >6.00), DU-145 (6.96,6.01, >6.00). Breast: 
+MCF7  (7.14,  6.09,  >6.00),  MCF7IADR-RES 
+(7.07,6.28, >6.00),MDA-MB-23 liATCC (7.42, 
+7.00,6.54), HS 578T(7.48,6.92, >b.OO),MDA- 
+MB-435  (7.46,  7.00,  >6.00),  MDA-N  (7.36, 
+6.82,  6.01), BT-549  (7.47,  6.96,  6.48), T-47D 
+(6.70,6.35, >6.00). 
+
+ACKNOWLEDGMENTS 
+
+We thank P. Murphy (AIMS) for the collec- 
+tion  of  Tubastrea faulknm’, E.G.L.  Koh  for  the 
+taxonomic identification, L.  Pannell,  Laboratory 
+of Analytical Chemistry, NIDDK, for mass spec- 
+tral analyses, and A. Monks and D. Scudiero for the 
+cytotoxicity screening. 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+14. 
+
+15. 
+
+16. 
+
+17. 
+
+18. 
+
+19. 
+
+20. 
+
+LITERATURE CITED 
+
+ R. Sanduja,andR.M. Wellington, 
+
+R.  Sakai  and  T.  Higa,  Chem. Lett,,  127 
+(1987). 
+M . h ,
+Heterocycles, 27, 7 19 (1 988). 
+N. Fusetani, M. Asano, S.  Matsunaga, and 
+K. Hashimoto, Comp. Biochem. Physiol. [Bf, 
+85, 845 (1986). 
+G. Guella, I. Mancini, H. Zibrowius,and F. 
+Pietra, Helv. Chim. Acta, 71, 773 (1988). 
+P.J.  Scheuer, Pure  Appl.  Chm., 54, 1907 
+(1982). 
+M.R.  Boyd,  in:  “Current  Therapy  in 
+Oncology.” Ed. by J.E. Niederhuber,  B.C. 
+Decker, Inc., Philadelphia,  1993, pp.  11- 
+34. 
+M.R. Boyd and K.D.  Paull, Dnrg Develop. 
+Res., 34, 91 (1995). 
+B.C.  Van  Wagenen,  R.  Larsen,  J.H. 
+Cardellina  11,  D.  Randarzo,  Z.C.  Liden, 
+andC. Swithenbank,J.  Org. Chem., 58,335 
+(1993). 
+B.K.  Chowdhury  and  D.P.  Chakrabolry, 
+Phytochemistry, 1 0 , 4 8 1  (1971). 
+SJ. Wratten, M.S. Wolfe, R J .  Andersen, 
+and  D.J.  Faulkner,  Antimicrob.  Agents 
+Chemother., 11,411 (1977). 
+C. Cafieri, E. Fattorusso,Y. Mahajanah, and 
+A.  Mangoni,  Z .  Naturfwsch., 48b, 1408 
+(1993). 
+N. Fusetani, K. Yasumuro, S.  Matsunaga, 
+and  K.  Hashimoto,  Tetrahedron Lett., 30, 
+2809 (1989). 
+J.A.  Roesener  and  P.J.  Scheuer, J. Am. 
+Chem. SM., 108,846 (1986). 
+S. Matsunaga, N. Fusetani, K. Hashimoco, 
+K. Koseki, and M. Noma, J. Am. Chem. SOC., 
+108,847 (1989). 
+S.  Matsunaga, N. Fusetani, K. Hashimoto, 
+K. Koseki, M. Noma, H. Noguchi, and U. 
+Sankawa, J. Org. Chem., 54, 1360 (1989). 
+M.R.  Kernan,  T.F.  Molinski,  and  D.J. 
+Faulkner, J. Org. Chem., 53, 5014 (1988). 
+M.R.  Kernan and  D.J.  Faulkner,  Tetrahe- 
+dron Lett., 28, 2809 (1987). 
+J .  Kobayashi, 0. Murata,  H. Shigemori, 
+andT.SasakiJ.  Nat.Prod., 56,787(1993). 
+M.A.  Rashid,  K.R.  Gustafson,  J.H. 
+Cardellina 11, and M.R. Boyd, J. Nat. Prod., 
+58, 594 (1995). 
+J.-R. Dai,L.A. Decosterd, K.R. Gustafson, 
+J.H. Cardellina 11,  G.N. Gray,  and M.R. 
+Boyd,J.  Nat. Prod., 57, 15 11 (1994). 
+
+Receiwd  18 January  I995 
+
+

@@ -1,0 +1,892 @@
+J. Nat. Prod. 2002, 65, 65-68
+
+65
+
+A New Triterpene Saponin from Pittosporum viridiflorum from the Madagascar
+Rainforest1
+
+Youngwan Seo,†,‡ John M. Berger,† Jeannine Hoch,† Kim M. Neddermann,§ Isia Bursuker,§
+Steven W. Mamber,§ and David G. I. Kingston*,†
+
+Department of Chemistry, M/C 0212, Virginia Polytechnic Institute and State University, Blacksburg, Virginia 24061, and
+Bristol-Myers Squibb Pharmaceutical Research Institute, 5 Research Parkway, Wallingford, Connecticut 06492-7660
+
+Received June 29, 2001
+
+A novel triterpenoid saponin, pittoviridoside (1), which possesses an unusual 2,3,4-trisubstituted glycosidic
+linkage, has been isolated from Pittosporum viridiflorum using the engineered yeast strains 1138, 1140,
+1353, and Sc-7 for bioactivity-guided fractionation. The structure of this compound was determined to be
+3-O-[(cid:226)-D-glucopyranosyl(1f2)]-[R-D-arabinopyranosyl(1f3)],[R-l-arabinofuranosyl(1f4)-(cid:226)-D-glucuronopy-
+ranosyl-21-angeloyl-22-senecioylolean-12-en-3(cid:226),15R,16R,21(cid:226),22R,28-hexol by spectral, chemical, and GC
+analyses. This compound showed weak cytotoxicity against the A2780 human ovarian cancer cell line.
+
+176.7, 169.5, 168.3, 159.1, 143.6, 138.4, 129.5, 127.0, and
+116.7. The chemical shifts of the carbonyl signals and the
+absorption band at 1720 cm-1 in the IR spectrum indicated
+the presence of two R,(cid:226)-unsaturated ester functionalities.
+This interpretation was supported by an absorption maxi-
+mum at 214 nm in the UV spectrum. In addition, the
+presence of a carboxylic acid functionality was indicated
+by a carbon signal at (cid:228) 176.7 in the 13C NMR spectrum
+and an absorption maximum at 1720 cm-1 in the IR
+spectrum. The negative FABMS of 1 exhibited a quasimo-
+lecular ion peak at m/z 1271 [M-H]-. Other significant
+fragmentation peaks visible at m/z 1139 [(M - H) - 132]-
+and 1109 [(M - H)+ - 162]- corresponded to the loss of
+one terminal hexose and one terminal pentose unit, re-
+spectively.
+
+In recent years we have been engaged in a program to
+discover bioactive compounds using a mechanism-based
+bioassay involving genetically engineered mutants of the
+yeast Saccharomyces cerevisiae2 along with cytotoxicity
+against the A2780 human ovarian cancer cell line.3 As a
+part of our continuing search for potential anticancer
+agents, a sample of Pittosporum viridiflorum Sims (Pittospo-
+raceae) collected in Madagascar as part of the plant
+collection program of the National Cancer Institute was
+subjected to testing, and its methanol extract was found
+to exhibit weak cytotoxicity to the A2780 human ovarian
+cancer cell line as well as activity in the yeast assay.
+
+A number of investigators have examined extracts of the
+leaves of Pittosporum species, including P. viridiflorum, for
+their antimicrobial effects;4,5 this is apparently due to a
+number of volatile mono- and sesquiterpenes.6-8 Mollus-
+cicidal activity was also described.9 A number of saponin
+aglycons isolated from P. viridiflorum have also been
+reported.10 Herein we report the structure and bioactivity
+of a novel triterpenoid saponin, designated as pittovirido-
+side (1).
+
+The MeOH extract of P. viridiflorum was subjected to
+solvent partitioning followed by C18 vacuum flash chroma-
+tography of the bioactive aqueous MeOH fraction, with the
+fractionation being guided by the results of A2780 cyto-
+toxicity and yeast assays. The chromatographic fraction
+eluted from the C18 column with 70% and 80% aqueous
+MeOH was bioactive (IC12 120, 150, 150, 140 (cid:237)g/mL against
+the 1138, 1140, 1353, and Sc7 yeast strains) and was
+purified by repeated reversed-phase HPLC and Si gel
+preparative TLC to give the new saponin pittoviridoside
+(1).
+
+Compound 1 was obtained as an amorphous white
+powder that was determined to have the composition
+C62H96O27 by HRFABMS and 13C NMR analyses. The IR
+spectrum showed absorptions at 3400 (OH) and 1720
+(CdO of COOH and R(cid:226)-unsaturated ester) cm-1. The 13C
+NMR spectra of this compound showed signals character-
+istic of three carbonyl groups and three double bonds at (cid:228)
+
+* To whom inquiries should be addressed. Tel: (540) 231-6570. Fax: (540)
+
+231-7702. E-mail: dkingston@vt.edu.
+
+† Virginia Polytechnic Institute and State University.
+‡ Present address: Division of Ocean Science, College of Ocean Science
+and Technology, Korea Maritime University, #1 Dongsam-Dong, Youngdo-
+Ku, Pusan 606-791, South Korea.
+
+§ Bristol-Myers Squibb Pharmaceutical Research Institute.
+
+Hydrolysis of 1 with 3 N HCl under reflux for 4 h
+afforded the aglycon, named pittoviridagenin (2), which
+showed a simplified NMR spectrum. A molecular formula
+of C40H62O8 was deduced for 2 by a combination of HR-
+FABMS and 13C NMR spectrometry. The presence of six
+carbon signals ((cid:228) 78.9, 78.0, 73.0, 72.5, 67.6, and 62.8) in
+the 13C NMR spectrum indicated this compound to contain
+a number of oxygen-based functionalities. This interpreta-
+
+10.1021/np010327t CCC: $22.00
+
+© 2002 American Chemical Society and American Society of Pharmacognosy
+
+Published on Web 12/21/2001
+
+66 Journal of Natural Products, 2002, Vol. 65, No. 1
+
+Notes
+
+tion was supported by the 1H NMR spectrum, in which
+seven downfield signals were observed at (cid:228) 6.65 (1H, d, J
+) 10.2 Hz), 6.25 (1H, d, J ) 10.2 Hz), 4.35 (1H, dd, J )
+4.2, 4.2 Hz), 4.20 (1H, dd, J ) 9.4, 4.2 Hz), 3.73 (1H, dd, J
+) 9.8, 4.6 Hz), 3.48 (1H, m), and 3.43 (1H, dd, J ) 9.8, 4.6
+Hz). Two of the seven oxygenated proton signals at (cid:228) 3.73
+and 3.43 were confirmed to be due to oxymethylene protons
+by DEPT and HMQC experiments. In addition, a careful
+examination of the 1H and 13C NMR and IR spectra
+revealed that another two oxygenated protons ((cid:228) 6.65 and
+6.25) were present as esters of angelic and senecic acids.
+The overall structure of 2 was determined by a combina-
+tion of 1H COSY, TOCSY, HMQC, and HMBC experiments
+and by comparison of NMR spectral data with literature
+data.11 The relative positions of the angeloyl and senecioyl
+groups were confirmed by long-range correlations of H-21
+and H-22 with quaternary carbonyl carbons; H-21 cor-
+¢ of the angeloyl group at (cid:228) 169.0 and H-22
+related with C-1¢
+with C-1¢ of the senecioyl group at (cid:228) 166.7, respectively.
+Thus, the structure of pittoviridagenin was unambiguous-
+ly determined as 21-angeloyl-22-senecioylolean-12-en-
+3(cid:226),15R,16R,21(cid:226),22R,28-hexol, or 21-angeloyl-22-senecioyl-
+R1-barrigenol (2).
+
+In the 1H NMR spectrum of pittoviridoside (1), signals
+for four anomeric protons at (cid:228) 5.18 (1H, br s), 5.00 (1H, d,
+J ) 7.8 Hz), 4.91 (1H, d, J ) 7.4 Hz), and 4.46 (1H, d, J )
+7.8 Hz) were correlated with signals for four carbons at (cid:228)
+108.2, 102.9, 104.1, and 105.7 by an HMQC experiment
+and were diagnostic for the presence of four sugar residues.
+The chemical shift of C-3 at (cid:228) 91.9 indicated that the four
+sugars were attached to C-3 of the aglycon. The identifica-
+tion of each sugar unit as well as their linkages was
+established by chemical degradation, TLC and GC analy-
+ses, and extensive NMR experiments.
+
+Acid hydrolysis of 1 followed by TLC analysis of the
+hydrolysate and direct comparison with standard sugars
+indicated the presence of glucose, arabinose, and glucuronic
+acid, and these results were confirmed by GC-MS analysis
+of the methyl acetates and comparison to standards. The
+absolute configurations of the hydrolyzed pentoses were
+determined by GC-MS analysis of their thiazolidine
+derivatives prepared with l-cysteine methyl ester hydro-
+chloride
+followed by peracetylation, as previously
+reported.2g,12
+
+, H-3¢
+
+, C-3¢
+
+, and C-4¢
+
+Most of the protons and carbons of each sugar unit were
+assigned on the basis of extensive NMR 1H-1H COSY,
+TOCSY, and HMQC experiments. The assignment of the
+signals of C-2¢
+in the glucuronic acid
+moiety was difficult because the signals of H-2¢
+, and
+H-4¢
+¢ were overlapped almost completely in the 1H NMR
+these signals were thus assigned by an
+spectrum;
+HMQC-COSY experiment. The cyclic structures of the
+monosaccharides were also determined to be D-glucu-
+ronopyranose, D-glucopyranose, L-arabinopyranose, and
+D-arabinofuranose (or alternatively D-arabinopyranose and
+L-arabinofuranose) by 1D TOCSY and HMBC data. A
+combination of the HMBC and 1D and 2D NOESY experi-
+ments and mass spectral data of sugar derivatives estab-
+lished the arrangement of these sugar residues. A long-
+¢ with C-3 revealed a linkage
+range correlation of H-1¢
+between C-1¢
+¢ of the glucuronic acid and C-3 of the aglycon.
+This interpretation was confirmed by a strong NOESY
+cross-peak between H-3 and H-1¢
+¢ and also between H-23
+and H-1¢
+. Similarly, a long-range correlation between
+¢ assigned the linkage between glucuronic
+H-1¢
+acid and glucose with the additional confirmation of
+NOESY correlations between H-24 and protons of H-5¢
+
+and C-2¢
+
+) with C-3¢
+
+and H-6¢
+. The linkage between the glucuronic acid and
+the arabinopyranose was defined by an HMBC correlation
+of the anomeric proton of the arabinopyranose at (cid:228) 4.91
+(H-1¢
+of the glucuronic acid at (cid:228) 80.2. The
+linkage between the arabinofuranose and the glucuronic
+acid was assigned by an HMBC correlation between the
+anomeric proton of the arabinofuranose at (cid:228) 5.18 (H-1¢
+)
+and C-4¢
+
+¢ at (cid:228) 75.1.
+
+Further evidence for the nature of the sugar linkages
+was derived from analysis of the MS fragmentation of the
+sugars after methylation, reduction, hydrolysis, reduction,
+acetylation, and GC separation (Scheme 1, Supporting
+Information).13 The monosaccharides D-glucuronopyranose,
+D-glucopyranose, and D-arabinopyranose were confirmed to
+have (cid:226)-, (cid:226)-, and R-linkages respectively by measurement
+of the coupling constants of their anomeric protons, while
+the R-configuration of L-arabinofuranose was clarified by
+observation of NOESY correlations between the C-1, C-3,
+and C-5 protons of this sugar.
+
+¢ and H-1¢
+
+The remaining problem was to distinguish between the
+two possibilities of L-arabinopyranose/D-arabinofuranose
+and D-arabinopyranose/L-arabinofurnaose for the arabinose
+units; this assignment was made by interpretation of
+NOESY data. Correlations between H-3¢
+and
+between H-4¢
+and H-1¢
+could be assigned unambigu-
+ously since the attachment point of each sugar was
+established by HMBC experiments and other key protons
+of arabinoses were not involved in the region around (cid:228) 3.86,
+where H-3¢
+of glucuronic acid were almost
+completely overlapped. A strong NOE was also observed
+between H-2¢
+of the
+arabinofuranose. Therefore, the absolute configurations of
+arabinopyranose and arabinofuranose must be defined as
+D and L, respectively. If these configurations were ex-
+changed, a NOESY cross peak would not have been found
+of arabinopyranose and H-4¢
+between H-2¢
+of arabino-
+furanose.
+
+of the arabinopyranose and H-4¢
+
+and H-4¢
+
+The structure of pittoviridoside (1) was thus identified
+unequivocally as 3-O-[(cid:226)-D-glucopyranosyl(1f2)]-[R-D-ara-
+binopyranosyl(1f3)]-[R-L-arabinofuranosyl(1f4)-(cid:226)-D-glu-
+curonopyranosyl-21-angeloyl-22-senecioyl-R1-barrigenol. Al-
+though several saponins containing R1-barrigenol and
+glucuronic acid have been isolated from various phy-
+tochemical sources,9,14 1 has two unusual structural fea-
+tures compared with previous isolates. In the first place,
+it has both D-arabinopyranose and L-arabinofuranose in the
+sugar portion of the molecule. The coexistence of ara-
+binopyranose and arabinofuranose with the same absolute
+configuration has been reported only rarely,15 although
+different compounds isolated from the same plant having
+arabinose units with the opposite absolute configurations
+have also been reported.16 To the best of our knowledge,
+however, this is the first example of a nonpolymeric
+compound simultaneously having the same sugar unit with
+opposite absolute stereochemistries and different ring sizes.
+A second unusual feature is the presence of a consecutively
+1,2,3,4-tetrasubstituted glycosidic linkage in the glucuronic
+acid part. This kind of functionality appears to have been
+reported only once previously.15b
+
+Pittoviridoside 1 showed weak activity (IC12 85, 80, 140,
+and 100 (cid:237)g/mL) against the 1138, 1140, 1353, and Sc7
+strains in our yeast bioassay; IC12 is the concentration
+required to inhibit the growth of a microorganism in a 12
+mm diameter zone. In a cytotoxicity test using the A2780
+human ovarian cancer cell line it also exhibited weak
+cytotoxicity (IC50 10.1 (cid:237)g/mL).
+
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+Notes
+
+Journal of Natural Products, 2002, Vol. 65, No. 1 67
+
+Table 1. 1H and 13C NMR Spectral Data of Sugar Moiety for Pittoviridoside (1)a
+
+position
+
+13C
+
+1H
+
+1H
+
+(cid:226)-D-Glc
+1¢
+2¢
+3¢
+4¢
+5¢
+6¢
+(cid:226)-D-Glc
+1¢
+2¢
+3¢
+4¢
+5¢
+6¢
+
+105.7 s
+79.9 d
+80.2 d
+75.1 d
+78.6 d
+176.7 s
+
+102.9 s
+76.2 d
+78.0 d
+72.6 d
+78.2 d
+63.6 tc
+
+4.46 (1H, d, 7.8)
+3.89 (1H, m)
+3.87 (1H, m)
+3.85 (1H, m)
+3.68 (1H, m)
+
+5.00 (1H, d, 7.8)
+3.20 (1H, dd, 9.1, 7.8)
+3.39 (1H, dd, 9.1, 9.0)
+3.12 (1H, dd, 9.5, 9.0)
+3.31 (1H, m)
+3.83 (1H, dd, 12.0, 2.0),b
+3.58 (1H, dd, 12.0, 7.2)b
+
+position
+R-D-Ara(p)
+1¢
+2¢
+3¢
+4¢
+5¢
+
+R-L-Ara(f)
+1¢
+2¢
+3¢
+4¢
+5¢
+
+13C
+
+104.1 s
+73.1 d
+74.5 d
+70.4 d
+67.5 t
+
+108.2 s
+81.8 d
+79.5 d
+87.4 d
+63.5 tc
+
+4.91 (1H. d, 7.4)
+3.56 (1H, dd, 9.0, 7.4)b
+3.52 (1H, dd, 9.0, 3.7)b
+3.77 (1H, brs)b
+3.82 (1H, m), 3.54 (1H, brd, 15.6)b
+
+5.18 (1H, brs)
+3.97 (1H, d, 1.2)
+3.75 (1H, brd 5.0)b
+4.43 (1H, dt, 5.0, 4.5)
+3.66 (2H, m)
+
+a 1H and 13C NMR spectra were measured in CD3OD at 100 and 400 MHz, respectively. Assignments were made by DEPT, 1H COSY,
+TOCSY, HMQC, and HMBC experiments. b Coupling constant is based on a 1D TOCSY experiment. c These assignments may be
+interchanged.
+
+Experimental Section
+
+General Experimental Procedures. Optical rotations
+were taken on a Perkin-Elmer 241 polarimeter. UV spectra
+were measured on a Shimadzu UV1201 spectrophotometer. IR
+spectra were recorded on a Perkin-Elmer FT-IR 1600 instru-
+ment. NMR spectra were recorded in CD3OD on a JEOL
+Eclipse+ 500 instrument at 500.1624 for 1H and 125.8 MHz
+for 13C, and Varian Unity 400 NMR instrument at 399.95 MHz
+for 1H and 100.58 MHz for 13C NMR, using standard pulse
+sequence programs. Mass spectral data were obtained at the
+Nebraska Center for Mass Spectrometry and on a VG 7070EHF
+mass spectrometer in the Department of Biochemistry, Vir-
+ginia Polytechnic Institute and State University.
+
+Plant Material. The plant was collected in April 1993 by
+staff from the Missouri Botanical Garden in Antsiranana
+Province in the Ankarana Reserve of Madagascar. Pittosporum
+viridiflorum is an undergrowth tree, and the sample was from
+a branch. The collection number was NCI # Q66V2626, MBG
+# 1726; the sample used was one of four parts of the plant
+that were collected. The plant was identified by Roy Gereau
+at Missouri Botanical Garden.
+
+Yeast Bioassay. The Sc-72a and 1138/1140/13532c yeast
+
+bioassays were carried out as previously described.
+
+Cytotoxicity Bioassay. The A2780 cytotoxicity assay was
+performed at Virginia Polytechnic Institute and State Uni-
+versity as previously reported.3
+
+Extraction and Isolation. The plant samples were dried,
+ground, and extracted with MeOH to give the dried methanolic
+extract N056221. The bioactive MeOH extract (2.71 g) de-
+scribed was active against the mutant 1138, 1140, 1353, and
+Sc7. The MeOH extract (IC12 650, 700, 800, 1150 (cid:237)g/mL in
+the 1138, 1140, 1353, and Sc7 yeast strains) was dissolved in
+80% aqueous MeOH (250 mL) and extracted with n-hexane
+(300 mL (cid:2) 2). The bioactive aqueous MeOH layer was diluted
+with H2O to 60% aqueous MeOH and then partitioned with
+CH2Cl2 (300 mL (cid:2) 2). The activity was retained in the 60%
+aqueous MeOH, which was fractionated between n-BuOH and
+H2O to afford 1.62 g of n-BuOH-soluble bioactive extract (IC12
+500, 530, 640, 570 (cid:237)g/mL in the 1138, 1140, 1353, and Sc7
+yeast strains). Half of the n-BuOH fraction was subjected to
+C18 vacuum flash chromatography using gradient mixtures of
+MeOH and H2O (elution order: 50, 60, 70, 80, 90% aqueous
+MeOH, MeOH). The active fractions (0.420 g) eluted with 70%
+and 80% aqueous MeOH were combined (IC12 120, 150, 150,
+140 (cid:237)g/mL in the 1138, 1140, 1353, and Sc7 yeast strains) and
+separated by semipreparative reversed-phase HPLC (YMC
+ODS-A column, 1 cm (cid:2) 25 cm, 37% aqueous MeOH, 230 nm).
+Final purification was done by Si gel preparative TLC with
+the solvent of the upper layer of n-BuOH-EtOH-H2O (5:1:4)
+to give 13 mg of pittoviridoside (1).
+
+Pittoviridoside (1): mp 276 °C (dec); [R]25
+
+D -19.0° (c 0.30,
+MeOH); UV (MeOH) (cid:236)max (log (cid:15)) 214 (3.71); IR (KBr) (cid:238)max 3400
+
+(br), 2920, 1720, 1610, 1380, 1240, 1160, 1080, 1040, 1000
+cm-1; 1H NMR (CD3OD) (cid:228) 6.03 (1H, qq, 7.1, 1.5, H-3¢
+¢ ), 5.85
+(1H, d, 10.2, H-21), 5.67 (1H, m, H-2¢ ), 5.51 (1H, d, 10.2, H-22),
+5.47 (1H, t, 3.3, H-12), 3.72 (2H, m, H-15, -16), 3.26 (1H, d,
+10.2, H-28), 3.17 (1H, dd, 11.8, 4.1, H-3), 2.98 (1H, d, 11.3,
+H-28), 2.62 (2H, m, H-18, -19), 2.11 (3H, d, 1.0, H-5¢ ), 1.91 (3H,
+m, H-2, -11), 1.88 (3H, dq, 7.2, 1.5, H-4¢
+¢ ), 1.87 (3H, d, 1.0, H-4¢ ),
+1.81 (3H, m, H-5¢
+¢ ), 1.75 (2H, m, H-7), 1.70 (1H, m, H-2), 1.61
+(1H, m, H-1), 1.57 (1H, m, H-9), 1.55 (1H, m, H-6), 1.40 (1H,
+m, H-6), 1.40 (3H, s, H-27), 1.07 (6H, s, H-23, -30), 1.00 (3H,
+s, H-26), 0.98 (3H, s, H-25), 0.96 (1H, m, H-1), 0.87 (6H, s,
+H-24, -29), 0.78 (1H, d, 12.0, H-5); 13C NMR (CD3OD) (cid:228) 169.5
+¢ ), 168.3 (s, C-1¢ ), 159.1 (s, C-3¢ ), 143.6 (s, C-13), 138.4
+(s, C-1¢
+¢ ), 127.0 (d, C-12), 116.7 (d, C-2¢ ), 91.9
+¢ ), 129.5 (s, C-2¢
+(d, C-3¢
+(d, C-3), 79.8 (d, C-21), 74.1 (d, C-16), 73.1 (d, C-22), 68.5 (d,
+C-15), 62.8 (t, C-28), 56.7 (d, C-5), 49.1 (s, C-17), 48.4 (s, C-14),
+48.2 (d, C-9), 47.5 (t, C-19), 42.3 (s, C-8), 41.4 (d, C-18), 40.4
+(s, C-4), 40.2 (t, C-1), 37.9 (s, C-10), 37.2 (t, C-7), 36.7 (s, C-20),
+29.6 (q, C-29), 28.4 (q, C-23), 27.5 (q, C-4¢ ), 27.1 (t, C-2), 24.8
+¢ ), 20.4 (q, C-5¢ ), 20.1 (q,
+(t, C-11), 21.0 (q, C-27), 20.8 (q, C-5¢
+C-30), 19.5 (q, C-6), 17.9 (q, C-26), 17.0 (q, C-24), 16.3 (q, C-25),
+¢ ); 1H and 13C NMR data for sugar moieties, see
+15.9 (q, C-4¢
+Table 1; HMBC correlations H-12/C-9, C-14; H-21/C-22, C-1¢
+¢ ;
+H-22/C-30, C-1¢ ; H-23/C-3, C-4, C-5, C-24; H-24/C-3, C-5, C-23;
+H-25/C-1, C-5, C-9, C-10; H-26/C-7, C-8, C-9, C-14; H-27/C-8,
+C-13, C-14, C-15; H-29/C-20, C-21, C-30; H-30/C-19, C-20, C-21,
+C-29; H-2¢ /C-1¢ , C-4¢ , C-5¢ ; H-4¢ /C-2¢ , C-3¢ ; H-5¢ /C-2¢ , C-3¢ , C-4¢ ;
+H-4¢
+¢ ; HRFABMS m/z
+1317.5857 (M - H + 2Na)+ (calcd for C62H95O27Na2, 1317.5876).
+Acid Hydrolysis of 1. A solution of pittoviridoside (1, 4.8
+mg) in MeOH (2 mL) was treated with an equal volume of 3
+N HCl under reflux for 4 h. After hydrolysis, the solution was
+neutralized with 5% Na2CO3 and extracted with EtOAc three
+times to afford an aqueous layer and organic layer containing
+the sugars and the aglycon, respectively. Preparative TLC of
+the aglycon from the organic layer on Si gel (CHCl3-MeOH,
+1:9) gave 1.5 mg of pittoviridagenin (2).
+
+¢ ; H-5¢
+
+¢ , C-3¢
+
+¢ , C-3¢
+
+¢ , C-4¢
+
+¢ , C-5¢
+
+¢ /C-2¢
+
+¢ /C-2¢
+
+Pittoviridagenin (2): mp 240 °C (dec); [R]25
+
+D +22.5° (c
+1.10, MeOH); UV (MeOH) (cid:236)max (log (cid:15)) 211(3.86); IR (KBr) (cid:238)max
+3400 (br), 2960, 2920, 1720, 1700, 1650, 1560, 1460, 1420,
+1380, 1230, 1160, 1080, 1070, 1040, 1000 cm-1; 1H NMR
+(pyridine-d5) (cid:228) 6.65 (1H, d, 10.2, H-22), 6.25 (1H, d, 10.2, H-21),
+5.90 (1H, br q, 7.1, H-3¢
+¢ ), 5.57 (1H, t, 3.1, H-12), 5.22 (1H, m,
+H-2¢ ), 4.35 (1H, dd, 4.2, 4.2, H-16), 4.20 (1H, dd, 9.4, 4.2, H-15),
+3.73 (1H, dd, 9.8, 4.6, H-28), 3.48 (1H, m, H-3), 3.43 (1H, dd,
+9.8, 4.6, H-28), 3.13 (1H, m, H-18), 3.08 (1H, m, H-19), 2.23
+(1H, m, H-7), 2.12 (1H, m, H-7), 2.10 (3H, d, 1.0, H-4¢ ), 2.05
+(3H, dq, 7.2, 1.5, H-4¢
+¢ ),
+1.87 (2H, m, H-2), 1.84 (3H, s, H-27), 1.78 (1H, dd, 11.2, 5.7,
+H-9), 1.68 (1H, m, H-6), 1.61 (1H, m, H-1), 1.51 (3H, d, 1.0,
+H-5¢ ), 1.46 (1H, dd, 11.5, 2.7, H-19), 1.45 (1H, m, H-6), 1.33
+(3H, s, H-29), 1.23 (3H, s, H-23), 1.11 (3H, s, H-29), 1.08 (3H,
+s, H-26), 1.06 (1H, m, H-1), 1.05 (3H, s, H-24), 0.96 (3H, s,
+
+¢ ), 1.92 (2H, m, H-11), 1.99 (3H, m, H-5¢
+
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+¢
+68 Journal of Natural Products, 2002, Vol. 65, No. 1
+
+Notes
+
+H-25), 0.95 (1H, m, H-5); 13C NMR (pyridine-d5) (cid:228) 169.0 (s,
+¢ ), 166.7 (s, C-1¢ ), 156.2 (s, C-3¢ ), 143.7 (s, C-13), 136.5 (d,
+C-1¢
+C-3¢
+¢ ), 125.5 (d, C-12), 116.5 (d, C-2¢ ), 78.0 (d,
+¢ ), 129.2 (s, C-2¢
+C-3), 78.9 (d, C-21), 73.0 (d, C-16), 72.5 (d, C-22), 67.6 (d, C-15),
+62.8 (t, C-28), 55.6 (d, C-5), 48.6 (s, C-17), 47.9 (s, C-14), 47.3
+(d, C-9), 46.9 (t, C-19), 41.5 (s, C-8), 40.9 (d, C-18), 39.3 (s,
+C-4), 39.4 (t, C-1), 37.4 (s, C-10), 36.8 (t, C-7), 36.3 (s, C-20),
+29.5 (q, C-29), 28.7 (q, C-23), 28.2 (t, C-2), 26.8 (q, C-4¢ ), 24.1
+(t, C-11), 21.0 (q, C-27), 20.9 (q, C-5¢
+¢ ), 19.9 (q, C-5¢ ), 20.1 (q,
+C-30), 19.2 (q, C-6), 17.6 (q, C-26), 16.6 (q, C-24), 16.0 (q, C-25),
+¢ ); HMBC correlations H-12/C-9, C-14; H-21/C-22,
+15.8 (q, C-4¢
+C-1¢
+¢ ; H-22/C-30, C-1¢ ; H-23/C-3, C-4, C-5, C-24; H-24/C-3, C-5,
+C-23; H-25/C-1, C-5, C-9, C-10; H-26/C-7, C-8, C-9, C-14; H-27/
+C-8, C-13, C-14, C-15; H-29/C-20, C-21, C-30; H-30/C-19, C-20,
+C-21, C-29; H-2¢ /C-1¢ , C-4¢ , C-5¢ ; H-4¢ /C-2¢ , C-3¢ ; H-5¢ /C-2¢ , C-3¢ ,
+C-4¢ ; H-4¢
+¢ ; HRFABMS
+m/z 694.4319 (M + Na)+ (calcd for C40H62O8Na, 694.4342).
+
+¢ ; H-5¢
+
+¢ , C-3¢
+
+¢ , C-3¢
+
+¢ , C-4¢
+
+¢ , C-5¢
+
+¢ /C-2¢
+
+¢ /C-2¢
+
+Sugar Analysis by TLC and GC-MS. The sugar compo-
+nents of the aqueous layer left after hydrolysis were analyzed
+by Si gel TLC, the solvent system used being CHCl3-MeOH-
+H2O (32:18:4, v/v). Spots were visualized by spraying with 95%
+EtOH-H2SO4-anisaldehyde (9:0.5:0.5, v/v) and heating at 120
+°C for 10 min. The results were confirmed by GC-MS analysis
+of methyl sugar peracetates. The aqueous layer was evapo-
+rated, dissolved in 10% HCl-dry MeOH (2 mL), and heated
+under reflux for 4 h. After removing the solvent under reduced
+pressure, the residue was treated with excess acetic anhydride
+and pyridine. Removal of the solvent by blowing with nitrogen
+gave the methyl sugar peracetates, which were analyzed by
+GC-MS and compared with authentic methyl sugar acetate
+standards. The GC-MS runs were performed using a 30 m (cid:2)
+0.32 mm i.d. HP-5 column with an initial temperature of 75
+°C for 1 min and then temperature programming to 250 °C at
+a rate of 10 °C/min.
+
+Linkage Analysis. The analysis was carried out as previ-
+
+ously described.2g
+
+Stereochemical Determination of Pentoses. The de-
+termination of the absolute configuration of the pentoses was
+performed by Hara’s method12 as previously described.2g
+Pittoviridoside (1 mg) was placed in 0.25 mL of MeOH and
+0.5 mL of 1 N HCl. This was heated at 100 °C overnight. Water
+and CHCl3 were added, the mixture was shaken, and the
+water-soluble fraction was dried by rotary evaporation. This
+fraction was placed in 0.3 mL of pyridine, and 3 mg of cysteine
+methyl ester hydrochloride was added; this was heated for 2
+h at 100 °C. Acetic anhydride (0.3 mL) was then added and
+allowed to react for a further 2 h. The sample was cooled and
+solvent removed by blowing off with argon to yield a mixture
+of thiazolidine-carboxylate derivatives, which was analyzed by
+GC-MS using a 30 m (cid:2) 0.32 mm i.d. HP-5 capillary column
+connected to the VG7070EHF mass spectrometer. The injector
+temperature was 200 °C, and a temperature of 75 °C for 1 min
+and then a gradient to 250 °C at the rate of 10 °C/min was
+used. Individual peaks for the thiazolidine derivatives of
+L-arabinose (26.24 min) and D-arabinose (24.41 min) were
+observed.
+
+Acknowledgment. This research was financially sup-
+ported by an International Cooperative Biodiversity Grant,
+number U01 TW/CA-00313, from the Fogarty Center, NIH.
+We thank Dan Harder, Mary Merello, Thomas G. Razafind-
+rabaeza, and Jim Miller of the Missouri Botanical Garden, and
+Sylvain Razafimandimbison of Parc Botanique et Zoologique
+de Tsimbazaza for the plant collection, the staff of CNARP and
+the Parc de Tsimbazaza for their help in the collection, drying,
+and processing of the plant samples, Dr. Gordon Cragg, Dr.
+David Newman, and the National Cancer Institute for making
+the extract available, and Dr. Rabodo Andriantsiferana and
+Dr. Maminirina Andriantsoa of CNARP for their assistance
+in obtaining approval for the use of this extract. Field work
+
+was conducted under collaborative agreements between the
+Missouri Botanical Garden and the Parc Botanique et
+Zoologique de Tsimbazaza and the Direction de la Recherche
+Forestie`re et Piscicole, FOFIFA, Antananarivo, Madagascar.
+We gratefully acknowledge courtesies extended by the Govern-
+ment of Madagascar (Direction Ge´ne´rale de la Gestion des
+Ressources Forestie`res) and by the Association Nationale pour
+la Gestion des Aires Prote´ge´es.
+
+Acknowledgment. We thank Mr. Kim Harich for carrying
+out the GC-MS analyses and the Nebraska Center for Mass
+Spectrometry for obtaining HRFAB mass spectra. We also
+thank Dr. Maged Abdel-Kader and Mr. Kim Harich for
+assistance with the linkage analysis and Dr. Bing-Nan Zhou
+for helpful discussions.
+
+Supporting Information Available: Figure 1 (NMR correlations
+for the sugar moieties of pittoviridoside (1)) and Scheme 1 (mass
+spectroscopic fragmentations of reduced alditol acetates from 1). These
+materials are available free of charge via the Internet at http://
+pubs.acs.org
+
+References and Notes
+
+(1) Biodiversity Conservation and Drug Discovery in Madagascar, Part
+
+1.
+
+(2) (a) Zhou, B.-N.; Baj, N. J.; Glass, T. E.; Malone, S.; Werkhoven, M.
+C. M.; van Troon, F.; David, M.; Wisse, J.; Kingston, D. G. I. J. Nat.
+Prod. 1997, 60, 1287-1293. (b) Abdel-Kader, M. S.; Wisse, J. H.;
+Evans, R.; van der Werff, H.; Kingston, D. G. I. J. Nat. Prod. 1997,
+60, 1294-1297. (c) Abdel-Kader, M. S.; Bahler, B. D.; Malone, S.;
+Werkhoven, M. C. M.; van Troon, F.; David, M.; Wisse, J.; Burkuser,
+I.; Neddermann, K. M.; Mamber, S. W.; Kingston, D. G. I. J. Nat.
+Prod. 1998, 61, 1202-1208. (d) Yang, S.-W.; Zhou, B.-N.; Wisse, J.
+H.; Evans, R.; van der Werff, H.; Miller, J. S.; Kingston, D. G. I. J.
+Nat. Prod. 1998, 61, 901-906. (e) Yang, S.-W.; Abdel-Kader, M.;
+Malone, S.; Werkhoven, M. C. M.; Miller, J. S.; Wisse, J.; Burkuser,
+I.; Neddermann, K. M.; Fairchild, C.; Raventos-Suarez, C.; Menendez,
+A. T.; Lane, K.; Kingston, D. G. I. J. Nat. Prod. 1999, 62, 976-983.
+(f) Yang, S.-W.; Zhou, B.-N.; Malone, S.; Werkhoven, M. C. M.; van
+Troon, F.; Wisse, J. H.; Kingston, D. G. I. J. Nat. Prod. 1998, 61,
+901-906. (g) Abdel-Kader, M.; Hoch, J.; Berger, J. M.; Evans, R.;
+Miller, J. S.; Wisse, J. H.; Mamber, S. W.; Dalton, J. M.; Kingston,
+D. G. I. J. Nat. Prod. 2001, 64, 536-539.
+
+(3) McBrien, K. D.; Bery, R. L.; Lewes, S. E.; Nedderman, K. M.;
+Bursuker, I.; Huang, S.; Klehr, S. E.; Leet, J. E. J. Antibiot. 1995,
+48, 1446-1452.
+
+(4) Mogg, V.; Gundidza, M. University of Zimbabwe, Honors Project
+Publications, 1982. (http://www.uz.ac.zw/medicine/pharmacy/pubs/
+1982.html).
+
+(5) Ramanandraibe, V.; Rakotovao, M.; Andriamaharavo, R. N.; Bessiere,
+J.-M.; Ravaonindrina, N.; Ramanoelina, A. R. P. J. Essent. Oil. Res.
+2000, 12, 650-652.
+
+(6) Mananjarasoa, E.; Rakotovao, M.; Ramaneoelina, A. R. P.; Andrian-
+
+tsiferana, M. H. J. Essent. Oil Res. 1998, 10, 459-462.
+
+(7) Nemethy, E. K.; Calvin, M. Phytochemistry 1982, 21, 2981-2982.
+(8) Gurib-Fakim, A.; Demarne, F.-E. Planta Med. 1994, 60, 584-585.
+(9) El-Nahas, H. A. J. Pharm. Sci. 1998, 7, 68-74.
+(10) Flor, S. C. Antimicrobial Saponins of Pittosporum viridiflorum. Ph.D.
+
+dissertation, University of Mississippi, 1974.
+
+(11) Burczyk, J.; Reznicek, G.; Baumgarten, S.; Hugh-Bloch, M.; Juren-
+itsch, J.; Schroder, H.; Werz, U.; Haslinger, E. Phytochemistry 1995,
+39, 195-198.
+
+(12) Hara, S.; Okabe, H.; Mihashi, K. Chem. Pharm. Bull. 1987, 35, 501-
+
+506.
+
+(13) (a) Hashimoto, Y.; Ishizone, H.; Suganuma, M.; Ogura, M.; Nakatsu,
+K.; Yoshioka, H. Phytochemistry 1983, 22, 259-264. (b) Needs, P.
+W.; Selvendran R. R. Phytochem. Anal. 1993, 4, 210-216. (c) Jay, A.
+Carbohydr. Chem. 1996, 15, 897-923.
+
+(14) (a) Arda, N.; Goren, N.; Kuru, A.; Pengsuparp, T.; Pezzuto, J. M.;
+Qiu, S.-X.; Cordell, G. A. J. Nat. Prod. 1997, 60, 1170-1173. (b)
+Schopke, T.; Janka, M.; Nimtz, M.; Wray, V.; Hiller, K. Planta Med.
+1998, 64, 83-85.
+
+(15) (a) Encarnacion, R.; Kenne, L.; Samuelsson, G.; Sandberg, F. Phy-
+tochemistry 1981, 20, 1939-1942. (b) Higuch, R.; Fujioka, T.; Iwa-
+moto, M,; Komori, T.; Kawasaki, T.; Lassak, E. Phytochemistry 1983,
+22, 2565-2569. (c) Higuchi, R.; Kubota, S.; Komori, T.; Pandey, V.
+B.; Singh, J. P.; Shah, A. H. Phytochemistry 1984, 23, 2597. (d)
+Nakayama, K.; Fujino, H.; Kasai, R.; Tanaka, O.; Zhou, J. Chem.
+Pharm. Bull. 1986, 34, 2209. (e) Bhandari, S. P. S.; Agrawal, P. K.;
+Garo, H. S. Phytochemistry 1990, 29, 3889-3892.
+
+(16) Martı´nez-Va´ squez, M.; Garcı´a-Arga´ ez, A. N.; Bueno, J. L.; Espinosa,
+
+G.; Caldero´n J. S. Phytochemistry 1998, 48, 1221-1224.
+
+NP010327T
+
+
