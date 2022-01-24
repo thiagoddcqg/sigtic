@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 /models/*
+
+dir_to_ignore/
+pickles
